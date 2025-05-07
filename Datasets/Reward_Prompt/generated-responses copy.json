@@ -1,0 +1,717 @@
+[
+  {
+    "prompt": "Sebuah kubus memiliki panjang rusuk 5 cm. Hitunglah volume kubus tersebut!",
+    "answers": [
+      {
+        "content": "Volume kubus dapat dihitung dengan rumus \\(V = s^3\\), di mana \\(s\\) adalah panjang rusuk kubus. Apakah kamu tahu apa hasilnya jika \\(s = 5\\) cm?"
+      },
+      {
+        "content": "Mari kita hitung bersama!\n\nVolume kubus = rusuk³\n\nKarena panjang rusuk = 5 cm, maka:\n\nVolume kubus = 5³ = 5 × 5 × 5 = 125 cm³\n\nJadi, volume kubus tersebut adalah **125 cm³**."
+      },
+      {
+        "content": "Volume kubus = panjang rusuk³\nVolume kubus = 5³\nVolume kubus = 5 × 5 × 5\nVolume kubus = 125 cm³\n\nApakah jawabanmu sama?"
+      },
+      {
+        "content": "Tentu! Mari kita hitung. Volume kubus = panjang rusuk³. Panjang rusuk = 5 cm. Jadi volume = \\(5^3 = 5 \\times 5 \\times 5 = 125\\) cm³."
+      },
+      {
+        "content": "Tentu! Volume kubus dihitung dengan rumus \\(V = s^3\\), di mana \\(s\\) adalah panjang rusuk kubus. Misalnya, jika rusuk kubus 10 cm, volume kubusnya adalah \\(10^3 = 1.000\\) cm³."
+      },
+      {
+        "content": "Oke, mari kita coba. Pertama, kita butuh rumus volume kubus. Volume kubus dihitung dengan rumus \\(V = s^3\\), di mana \\(s\\) adalah panjang rusuk kubus. \n\nKarena panjang rusuk \\(s = 5\\) cm, maka kita hitung \\(5^3 = 5 \\times 5 \\times 5\\). Bagaimana hasilnya?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah balok memiliki panjang 8 cm, lebar 6 cm, dan tinggi 4 cm. Berapa luas permukaan balok tersebut?",
+    "answers": [
+      {
+        "content": "Mari kita coba! Luas permukaan balok adalah jumlah dari:\n1. Luas alas (panjang \\times lebar).\n2. Luas permukaan sisi-sisi lainnya (panjang \\times tinggi) \\times 2 (karena ada 2 sisi).\n\nPertama, hitung luas alas: panjang \\times lebar = 8 \\times 6 = 48 cm²."
+      },
+      {
+        "content": "Mari kita coba! Luas permukaan balok dapat diperhitungkan dengan rumus: Luas = 2 \\times (panjang \\times lebar + lebar \\times tinggi + tinggi \\times panjang).\n\nMari kita substitusi nilai: \n- Panjang = 8 cm\n- Lebar = 6 cm\n- Tinggi = 4 cm\n\nCoba hitung sendiri!"
+      },
+      {
+        "content": "Kita butuh rumus luas permukaan balok. Rumusnya adalah \\(2 \\times (panjang \\times lebar + lebar \\times tinggi + tinggi \\times panjang)\\). Coba hitung!"
+      },
+      {
+        "content": "Pertanyaan bagus! Mari kita hitung dulu:\n\nLuas permukaan = 2 \\times (panjang \\times lebar + panjang \\times tinggi + lebar \\times tinggi)\n\nApa kamu sudah mencoba menghitungnya?"
+      },
+      {
+        "content": "Pertama, kita hitung volume balok dengan rumus: Volume = Panjang \\times Lebar \\times Tinggi. Lalu, kita pakai rumus: Luas Permukaan = 2 \\times (Panjang \\times Lebar + Lebar \\times Tinggi + Panjang \\times Tinggi)."
+      },
+      {
+        "content": "Luas permukaan balok = 2(l \\times t + l \\times p + t \\times p)"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah limas segiempat memiliki volume 240 cm³ dan luas alas 60 cm². Berapakah tinggi limas tersebut?",
+    "answers": [
+      {
+        "content": "Volume limas segiempat = (1/3) \\times luas alas \\times tinggi. \n\nDari soal, kita ketahui:\n- Volume = 240 cm³\n- Luas alas = 60 cm²\n\nCoba kita masukkan data tersebut ke dalam rumus volume limas!"
+      },
+      {
+        "content": "Pertama, kita harus mengetahui rumus volume limas segiempat. Rumusnya adalah \\(V = \\frac{1}{3} \\times A_{alas} \\times t\\). Di mana \\(V\\) adalah volume, \\(A_{alas}\\) adalah luas alas, dan \\(t\\) adalah tinggi limas. \n\nKalau sudah paham, coba hitung tinggi limas tersebut dengan menggunakan volume 240 cm³ dan luas alas 60 cm²."
+      },
+      {
+        "content": "Pertama, kita kenal rumus volume limas segiempat. Rumus volume limas segiempat adalah \\(V = \\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi}\\). Diketahui \\(V = 240\\) cm³ dan \\(\\text{luas alas} = 60\\) cm². Mari kita hitung tinggi limasnya!"
+      },
+      {
+        "content": "Mari kita selesaikan! Kita tahu rumus volume limas:\n\n\\[ V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi} \\]\n\nDi sini, \\( V = 240 \\) cm³ dan \\( \\text{Luas Alas} = 60 \\) cm². Coba hitung dulu tinggi limasnya!"
+      },
+      {
+        "content": "Mari kita mulai dengan volume limas: \\(V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi}\\). Diketahui \\(V = 240\\) cm³ dan \\(\\text{Luas Alas} = 60\\) cm². Tinggi kita sebut \\(h\\). Jadi persamaan volume kita tuliskan:\n\n\\[\n240 = \\frac{1}{3} \\times 60 \\times h\n\\]\n\nBagaimana langkah selanjutnya untuk menentukan \\(h\\)?"
+      },
+      {
+        "content": "Kita menggunakan rumus:\n\\[V = \\frac{1}{3} \\times (\\text{luas alas}) \\times \\text{tinggi}\\]\n\\[240 = \\frac{1}{3} \\times 60 \\times \\text{tinggi}\\]\n\\[240 = 20 \\times \\text{tinggi}\\]\n\\[\\text{tinggi} = \\frac{240}{20} = 12\\]\nJadi tinggi limas tersebut adalah **12 cm**."
+      },
+      {
+        "content": "Pertanyaan yang bagus! Kita kenal rumus volume limas:\n\nV = 1/3 \\times Luas Alas \\times Tinggi\n\nDari pertanyaan, kita tahu:\n\nV = 240 cm³\nLuas Alas = 60 cm²\n\nTapi kita tidak tahu Tinggi limas. Bagaimana cara menemukannya?"
+      },
+      {
+        "content": "Pertanyaan bagus! Apa kamu tahu rumus volume limas segiempat?"
+      },
+      {
+        "content": "Mari kita pelajari. Volume limas segiempat dapat dihitung dengan rumus \\(V = \\frac{1}{3}Ah\\), di mana \\(A\\) adalah luas alas dan \\(h\\) adalah tinggi limas."
+      }
+    ]
+  },
+  {
+    "prompt": "Jika panjang rusuk sebuah kubus adalah 10 cm, hitunglah panjang diagonal ruang kubus tersebut!",
+    "answers": [
+      {
+        "content": "Oke! Mari kita pecahkan. \n\nPertama, kenapa kamu membutuhkan panjang diagonal ruang kubus?"
+      },
+      {
+        "content": "Pertanyaan menarik! Mari kita analisis:\n1. Rusuk adalah diagonal persegi panjang yang membentuk sudut 90°. Panjang diagonal persegi panjang \\(d = \\sqrt{l^2 + m^2}\\) dengan \\(l\\) dan \\(m\\) adalah sisi rusuk.\n2. Diagonal ruang kubus adalah diagonal persegi panjang dengan sisi rusuk kubus. Jika panjang rusuk kubus adalah 10 cm, panjang diagonal ruang kubus dapat dikalkulasi sebagai:\n\\[d = \\sqrt{(10)^2 + (10)^2} = \\sqrt{100 + 100} = \\sqrt{200} = \\sqrt{2 \\times 100} = \\sqrt{2} \\times \\sqrt{100} = 10\\sqrt{2}\\]\nJadi, **panjang diagonal ruang kubus adalah \\(10\\sqrt{2}\\) cm**."
+      },
+      {
+        "content": "Pertama, kita harus tahu rumus untuk menemukan diagonal ruang kubus. Pada kubus dengan panjang rusuk \\(a\\), diagonal ruang kubus adalah \\(\\sqrt{3}a\\). Jadi jika rusuknya 10 cm, berapa diagonal ruang kubusnya?"
+      },
+      {
+        "content": "Oke! Pertama, kita ingat bahwa diagonal ruang kubus adalah diagonal dari tiga rusuk yang berpotongan. Jika panjang rusuk kubus adalah 10 cm, maka panjang diagonal ruang kubus adalah?"
+      },
+      {
+        "content": "Pertanyaan menarik! Mari kita cermati. Rusuk kubus membentuk segitiga siku-siku di setiap sudut kubus. Panjang rusuk adalah sisi segitiga siku-siku. Diagonal ruang kubus adalah hipotenusa segitiga siku-siku yang dibentuk oleh dua rusuk yang berjalan tegak lurus."
+      },
+      {
+        "content": "Pertanyaan bagus! Mari kita mulai. Apa yang kamu tahu tentang diagonal ruang dan kubus?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah ruangan berbentuk balok dengan panjang 5 m, lebar 4 m, dan tinggi 3 m akan dicat dindingnya (tanpa atap dan lantai). Jika biaya pengecatan Rp25.000 per m², berapa total biaya yang diperlukan?",
+    "answers": [
+      {
+        "content": "Pertama, kita perlu menghitung luas permukaan balok. \n\nLuas permukaan balok = 2 \\times (panjang \\times lebar + panjang \\times tinggi + lebar \\times tinggi)\n\nSubstitusi nilai yang diberikan:\n\\[2 \\times (5 \\times 4 + 5 \\times 3 + 4 \\times 3)\\]\n\\[= 2 \\times (20 + 15 + 12)\\]\n\\[= 2 \\times 47\\]\n\\[= 94\\]\n\nJadi, luas permukaan balok adalah 94 m². Selanjutnya, kita perlu menghitung total biaya pengecatan:\n\\[94 \\times Rp25.000 = Rp2.350.000\\]\n\nJadi, total biaya yang diperlukan untuk mengecat balok adalah Rp2.350.000."
+      },
+      {
+        "content": "Langkah pertama: Hitung luas dinding dengan rumus \\(2 \\times (\\text{panjang} \\times \\text{tinggi} + \\text{lebar} \\times \\text{tinggi} + \\text{panjang} \\times \\text{lebar})\\).\n\nCoba hitung luas dinding tersebut!"
+      },
+      {
+        "content": "Mari kita hitung luas permukaan dinding balok:\n- Luas permukaan depan (panjang \\times lebar) = 5 m \\times 4 m = 20 m²\n- Luas permukaan samping (panjang \\times tinggi) = 2 \\times (5 m \\times 3 m) = 30 m²\n- Luas permukaan belakang (lebar \\times tinggi) = 2 \\times (4 m \\times 3 m) = 24 m²\nTotal luas permukaan = 20 m² + 30 m² + 24 m² = 74 m²\nTotal biaya = 74 m² \\times Rp25.000/m² = Rp1.850.000"
+      },
+      {
+        "content": "Pertama, kita hitung luas dindingnya. Rumus luas dinding balok:\n\\[2 \\times (\\text{panjang} \\times \\text{tinggi} + \\text{lebar} \\times \\text{tinggi})\\]\n\nKita coba pakai rumus itu:\n\\[2 \\times (5 \\times 3 + 4 \\times 3)\\]\n\\[= 2 \\times (15 + 12)\\]\n\\[= 2 \\times 27\\]\n\\[= 54\\] m²\n\nSekarang kita kalikan luasnya dengan biaya per m²:\n\\[54 \\times 25.000 = 1.350.000\\]\n\nJadi total biaya yang diperlukan adalah Rp1.350.000."
+      },
+      {
+        "content": "Mari kita hitung dulu. Luas permukaan total balok itu adalah:\n\n\\[ P = 2 \\times (L \\times T + P \\times T + L \\times P) \\]\n\nDi mana:\n- \\( L \\) adalah panjang,\n- \\( P \\) adalah lebar,\n- \\( T \\) adalah tinggi.\n\nCoba hitung dulu untuk balok tersebut."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas dinding balok. Dinding balok terdiri dari 2 dinding panjang (panjang \\times lebar), 2 dinding lebar (lebar \\times tinggi), dan 2 dinding tinggi (tinggi \\times panjang). Jadi total luas dinding:\n\\[2 \\times (5 \\times 4) + 2 \\times (4 \\times 3) + 2 \\times (3 \\times 5)\\]\n\\[2 \\times 20 + 2 \\times 12 + 2 \\times 15\\]\n\\[40 + 24 + 30 = 94\\]\nJadi luas dinding balok adalah 94 m². Sekarang kita hitung total biaya:\n\\[94 \\times 25,000 = 2,350,000\\]\nJadi total biaya yang diperlukan adalah **Rp2.350.000**."
+      }
+    ]
+  },
+  {
+    "prompt": "Dua balok memiliki perbandingan panjang, lebar, dan tinggi = 2:3:4. Jika volume balok pertama adalah 192 cm³, berapa volume balok kedua?",
+    "answers": [
+      {
+        "content": "Volume balok = panjang \\times lebar \\times tinggi. Jika panjang:lebar:tinggi = 2:3:4, maka volume balok pertama = 2 \\times 3 \\times 4 = 24 cm³. Jika volume balok pertama = 192 cm³, maka panjang:lebar:tinggi balok kedua = 192 / 24 = 8. Jadi panjang:lebar:tinggi balok kedua = 8:12:16. Volume balok kedua = 8 \\times 12 \\times 16 = 1152 cm³."
+      },
+      {
+        "content": "Volume balok dapat diperoleh dengan rumus: \\(V = l \\times w \\times t\\). Karena perbandingan panjang, lebar, dan tinggi balok pertama adalah 2:3:4, maka volume balok pertama dapat diperoleh dengan \\(2 \\times 3 \\times 4 = 24\\). Volume balok kedua dapat diperoleh dengan \\(3 \\times 4 \\times 5 = 60\\). Jadi, volume balok kedua = 60 cm³."
+      },
+      {
+        "content": "Pertama, kita perlu hitung volume balok pertama dengan rumus \\(V = p \\times l \\times t\\). Panjang, lebar, dan tinggi pertama adalah \\(2x\\), \\(3x\\), dan \\(4x\\) cm. Jadi \\(192 = 2x \\times 3x \\times 4x\\). \n\nApakah kamu tahu cara menentukan \\(x\\) dari rumus ini?"
+      },
+      {
+        "content": "Kita mulai dari aspek yang sama. Jika kita memiliki perbandingan 2:3:4, kita bisa membagi kedua balok menjadi:\n- Balok pertama: 2x * 3x * 4x = 24x³ cm³\n- Balok kedua: 2x * 3x * 4x = 24x³ cm³\n\nKarena kedua balok memiliki perbandingan yang sama, volume balok kedua = 24x³ cm³."
+      },
+      {
+        "content": "Oke, mari kita analisis. Volume balok = \\(P \\times L \\times T\\). Karena perbandingan panjang, lebar, dan tinggi adalah 2:3:4, kita bisa mengasosiasi ini dengan 2x, 3x, dan 4x. Jadi, volume balok pertama = \\(2x \\times 3x \\times 4x = 24x^3\\) cm³. Kita tahu volume balok pertama = 192 cm³. Maka, \\(24x^3 = 192\\). Bagaimana cara kita menyelesaikan \\(x\\)?"
+      },
+      {
+        "content": "Pertanyaan bagus! Kita gunakan konsep volume balok. \n\n**Langkah 1:** Tentukan perbandingan volume balok. \n\nVolume balok = \\(p \\times l \\times t\\). \n\nJika panjang, lebar, dan tinggi balok 2:3:4, maka perbandingan volume = \\(2 \\times 3 \\times 4\\). \n\n**Langkah 2:** Hitung volume balok kedua. \n\nVolume balok pertama = 192 cm³. \n\nKarena perbandingan volume balok 2:3:4, maka volume balok kedua = \\(\\frac{3}{4} \\times 192\\). \n\n**Langkah 3:** Hitung volume balok kedua. \n\nVolume balok kedua = \\(\\frac{3}{4} \\times 192 = 144\\) cm³. \n\nJadi, volume balok kedua = **144 cm³**."
+      },
+      {
+        "content": "Mari kita analisis. Volume balok = panjang \\times lebar \\times tinggi. Jika panjang = 2x, lebar = 3x, dan tinggi = 4x, maka volume = 2x \\times 3x \\times 4x = 24x³.\n\nVolume balok pertama = 192 cm³. Artinya, 24x³ = 192. \n\nTentukan nilai x."
+      },
+      {
+        "content": "Pertama, kita perlu menentukan hubungan panjang, lebar, dan tinggi antara kedua balok. Karena panjang : lebar : tinggi = 2 : 3 : 4, kita dapat menulis perbandingan sebagai 2x : 3x : 4x.\n\nKita juga tahu volume balok = panjang \\times lebar \\times tinggi. Jika volume balok pertama adalah 192 cm³, berapa panjang, lebar, dan tingginya?"
+      },
+      {
+        "content": "Pertama, kita cari volume balok pertama. Volume = panjang × lebar × tinggi. Jika panjang = 2x, lebar = 3x, tinggi = 4x, maka volume = 2x × 3x × 4x = 24x³. Kita tahu volume = 192 cm³. Jadi 24x³ = 192. Mau coba cari x?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah balok memiliki volume 600 cm³. Jika panjangnya 10 cm dan lebarnya 6 cm, berapa tinggi balok tersebut?",
+    "answers": [
+      {
+        "content": "Volume balok = \\(l \\times p \\times t\\). Kenali \\(l = 10\\) cm, \\(p = 6\\) cm, dan volume = 600 cm³. Coba tentukan tinggi balok tersebut!"
+      },
+      {
+        "content": "Volume balok = \\(10 \\times 6 \\times h = 60h\\). Jika \\(60h = 600\\), apa nilai \\(h\\)?"
+      },
+      {
+        "content": "Pertama, kita perlu mengetahui rumus volume balok, yaitu \\(V = l \\times w \\times t\\). Di mana \\(l\\) adalah panjang, \\(w\\) adalah lebar, dan \\(t\\) adalah tinggi. \nLangkah pertama: Hitung volume balok dengan menggunakan \\(l\\) dan \\(w\\) yang diketahui.\n\nVolume = \\(10 \\times 6 = 60\\) cm². Tinggi = Volume / (\\(10 \\times 6\\)) = 10 cm."
+      },
+      {
+        "content": "Volume balok = panjang \\times lebar \\times tinggi. \n600 = 10 \\times 6 \\times tinggi. \nTinggi = 600 / (10 \\times 6) = 600 / 60 = 10 cm."
+      },
+      {
+        "content": "Baik, mari kita pelajari bersama! Pertama, ingat rumus volume balok adalah \\(V = l \\times b \\times t\\), di mana \\(l\\) adalah panjang, \\(b\\) adalah lebar, dan \\(t\\) adalah tinggi. Kita tahu \\(l = 10\\) cm dan \\(b = 6\\) cm. Apa yang kita inginkan?"
+      },
+      {
+        "content": "Mari kita pelajari bersama! Volume balok = Panjang \\times Lebar \\times Tinggi. Jika volume = 600 cm³, panjang = 10 cm, dan lebar = 6 cm, berapa tinggi balok tersebut?"
+      },
+      {
+        "content": "Mari kita uraikan masalah ini. Volume balok dihitung dengan rumus \\(V = l \\times w \\times h\\), di mana \\(l\\) adalah panjang, \\(w\\) adalah lebar, dan \\(h\\) adalah tinggi. Kita sudah tahu \\(V = 600\\) cm³, \\(l = 10\\) cm, dan \\(w = 6\\) cm. Jadi, apakah kamu bisa menentukan rumus untuk menemukan \\(h\\) berdasarkan data yang ada?"
+      },
+      {
+        "content": "Pertanyaan yang menarik! Volume balok dapat dicari dengan rumus \\(V = \\text{panjang} \\times \\text{lebar} \\times \\text{tinggi}\\). Apa yang kamu lakukan terlebih dahulu?"
+      },
+      {
+        "content": "Pertanyaan yang bagus! Mari kita hitung bersama. Volume balok = \\(10 \\times 6 \\times t = 60t\\). Kita tahu volume = 600 cm³, jadi:\n\n\\[60t = 600\\]\n\nBagaimana kita menghitung \\(t\\)?"
+      }
+    ]
+  },
+  {
+    "prompt": "Jika panjang rusuk sebuah kubus diperbesar menjadi 3 kali lipat, berapa kali lipat luas permukaannya bertambah?",
+    "answers": [
+      {
+        "content": "Tentu! Mari kita analisis. Rusuk kubus memiliki panjang yang sama (misal 10 cm), sedangkan luas permukaan kubus diberikan oleh \\(6 \\times \\text{panjang rusuk}^2\\). Jika rusuk diperbesar menjadi 3 kali lipat (misal 30 cm), maka luas permukaannya akan bertambah menjadi \\(6 \\times (30)^2\\)."
+      },
+      {
+        "content": "Mari kita analisis. Luas permukaan kubus terdiri dari 6 persegi sama sisi. Jika panjang rusuk diperbesar 3 kali lipat, apa yang terjadi pada luas permukaan?"
+      },
+      {
+        "content": "Langkah pertama: Luas permukaan kubus asli = 6 \\times rusuk². Jika rusuk diperbesar menjadi 3 kali lipat, baru hitung luas permukaan kubus yang baru."
+      },
+      {
+        "content": "Pertanyaan bagus! Mari analisis langkah-langkahnya:\n\n1. **Tentukan korelasi**: Bagaimana luas permukaan kubus berbanding terhadap panjang rusuknya? Berapa kali lipat luas permukaan jika panjang rusuk dikali 3?\n2. **Hitung luas permukaan awal**: Berapa luas permukaan kubus dengan panjang rusuk \\(s\\)? (Gunakan rumus luas permukaan kubus: \\(6s^2\\))\n3. **Hitung luas permukaan baru**: Berapa luas permukaan kubus dengan panjang rusuk \\(3s\\)? (Gunakan rumus yang sama)\n4. **Hitung perbandingan**: Berapa kali lipat luas permukaan baru terhadap luas permukaan awal?\n\nApa yang kamu lakukan pertama?"
+      },
+      {
+        "content": "Mari kita analisis. Luas permukaan kubus dihitung dengan rumus \\(6a^2\\), di mana \\(a\\) adalah panjang rusuk. Jika rusuk diperbesar menjadi 3 kali lipat, maka \\(a\\) menjadi \\(3a\\)."
+      },
+      {
+        "content": "Mari kita analisis: jika panjang rusuk kubus diperbesar menjadi 3 kali lipat, maka luas permukaan kubus akan naik sebanding dengan perubahan ini. Karena luas permukaan kubus adalah 6 kali kuadrat panjang rusuknya, maka perbandingan luas permukaan baru dengan lama adalah (3x)^2 : x^2 = 9 : 1. Jadi, luas permukaan bertambah 9 kali lipat."
+      },
+      {
+        "content": "Tepat! Pada kubus, rusuknya sama panjang. Jika rusuk diperbesar 3 kali, maka semua sisi juga 3 kali. Luas permukaan = 6 \\times (sisi)^2. Jika sisi 3 kali, maka luas 9 kali lipat."
+      },
+      {
+        "content": "Pertanyaan menarik! Mari kita analisis langkah demi langkah. \n\nLangkah pertama: Apa yang terjadi jika panjang rusuk diperbesar? \n\nApa jawabanmu?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah kubus dengan rusuk 6 cm ditumpuk dengan limas segiempat yang memiliki alas sama dengan kubus dan tinggi 4 cm. Hitung volume gabungan kedua bangun tersebut!",
+    "answers": [
+      {
+        "content": "Kita akan membagi masalah ini menjadi dua bagian. Pertama, kita akan mencari volume kubus dan volume limas. Kemudian, kita akan mengurangi volume kubus dari volume gabungan untuk mendapatkan volume limas."
+      },
+      {
+        "content": "Pertama, kita hitung volume kubus. Rumus volume kubus adalah \\(s^3\\), di mana \\(s\\) adalah panjang rusuknya. \n\nBerapa volume kubus tersebut?"
+      },
+      {
+        "content": "Pertama, kita hitung volume kubus. Volume kubus = \\(6 \\times 6 \\times 6 = 216\\) cm³. Kita lanjutkan dengan volume limas. Volume limas = \\(\\frac{1}{3} \\times \\text{Luas alas} \\times \\text{Tinggi}\\). Luas alas limas = \\(6 \\times 6 = 36\\) cm². Jadi volume limas = \\(\\frac{1}{3} \\times 36 \\times 4 = 48\\) cm³. Volume gabungan = \\(216 + 48 = 264\\) cm³."
+      },
+      {
+        "content": "Mari kita mulai dengan menghitung volume kubus. Volume kubus = rusuk³ = 6³ = 216 cm³."
+      },
+      {
+        "content": "Mari kita analisis satu per satu terlebih dahulu. Apa yang kamu tahu tentang volume kubus?"
+      },
+      {
+        "content": "Pertama, kita hitung volume kubus. Rumus volume kubus: \\(P = s^3\\), di mana \\(s\\) adalah panjang rusuk.\n\nBerapa volume kubus ini?"
+      },
+      {
+        "content": "Kita hitung dulu volume kubus:\n\nVolume kubus = \\(6^3 = 216 \\, \\text{cm}^3\\)\n\nSekarang, hitung volume limas segiempat:\n\nVolume limas = \\(\\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi}\\)\n\nLuas alas limas = \\(6^2 = 36 \\, \\text{cm}^2\\)\n\nVolume limas = \\(\\frac{1}{3} \\times 36 \\times 4 = 48 \\, \\text{cm}^3\\)\n\nVolume gabungan = volume kubus + volume limas = \\(216 + 48 = 264 \\, \\text{cm}^3\\)\n\nJadi, volume gabungan kedua bangun tersebut adalah \\(264 \\, \\text{cm}^3\\)."
+      },
+      {
+        "content": "Pertama, kita hitung volume kubus:\n\nVolume kubus = s³\n= 6³\n= 216 cm³\n\nSelanjutnya, kita hitung volume limas:\n\nVolume limas = 1/3 × Luas alas × Tinggi\n= 1/3 × 6² × 4\n= 48 cm³\n\nVolume gabungan = Volume kubus + Volume limas\n= 216 + 48\n= 264 cm³\n\nJadi, volume gabungan adalah **264 cm³**!"
+      },
+      {
+        "content": "Pertama, kita hitung volume kubus. Volume kubus = \\(s^3\\). Karena rusuknya 6 cm, maka \\(s = 6\\) cm. Jadi, volume kubus = \\(6^3 = 216\\) cm³.\n\nKemudian, kita hitung volume limas. Volume limas = \\(\\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi}\\). Luas alas = \\(s^2 = 6^2 = 36\\) cm². Tinggi limas = 4 cm. Jadi, volume limas = \\(\\frac{1}{3} \\times 36 \\times 4 = 48\\) cm³.\n\nVolume gabungan = volume kubus + volume limas = \\(216 + 48 = 264\\) cm³.\n\nApakah kamu mau coba soal lain?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk balok berukuran panjang 1 m, lebar 50 cm, dan tinggi 40 cm. Berapa liter air minimal yang dibutuhkan untuk mengisi akuarium hingga ¾ bagian?",
+    "answers": [
+      {
+        "content": "Pertama, kita hitung volume total akuarium. Volume balok diberikan oleh:\n\n\\[V = l \\times w \\times t\\]\n\nDi mana \\(l\\) = panjang, \\(w\\) = lebar, dan \\(t\\) = tinggi akuarium.\n\n\\[V_{total} = 1 \\times 0.5 \\times 0.4 = 0.2 \\text{ m}^3\\]\n\nKarena 1 \\(\\text{ m}^3\\) = 1000 \\(\\text{ dm}^3\\) = 1000 L, maka:\n\n\\[V_{total} = 0.2 \\times 1000 = 200 \\text{ L}\\]\n\nKemudian, hitung volume air yang dibutuhkan untuk mengisi ¾ akuarium:\n\n\\[V_{air} = \\frac{3}{4} \\times V_{total} = \\frac{3}{4} \\times 200 = 150 \\text{ L}\\]\n\nJadi, akuarium membutuhkan air minimal 150 L untuk mengisi ¾ bagian."
+      },
+      {
+        "content": "Pertama, kita perlu mengonversi semua ukuran ke meter, karena volume balok dihitung dalam meter kubik. Misalnya, lebar 50 cm = 0.5 m. Tinggi 40 cm = 0.4 m. Panjang 1 m tetap seperti itu. Lalu, hitung volume balok. Volume balok = panjang × lebar × tinggi."
+      },
+      {
+        "content": "Langkah pertama: Hitung volume akuarium. Rumus volume balok: \\(V = panjang \\times lebar \\times tinggi\\).\n\nLangkah kedua: Konversi hasilnya ke liter. 1 liter = 1 dm³."
+      },
+      {
+        "content": "Mari kita hitung volume akuariumnya. Volume balok = panjang \\times lebar \\times tinggi. Berapa volume akuarium dalam cm\\(^3\\)?"
+      },
+      {
+        "content": "Pertama, kita perlu mengubah satuan panjangnya ke meter. Berapa panjang, lebar, dan tinggi akuarium dalam meter?"
+      },
+      {
+        "content": "Pertama, kita harus mengonversi semua ukuran menjadi meter. Panjang 1 m = 100 cm, lebar 50 cm = 0,5 m, dan tinggi 40 cm = 0,4 m. \n\nKalikan lebar dengan panjang untuk luas alas: \\(0.5 \\times 1 = 0.5\\, m^2\\). \n\nKalikan luas alas dengan tinggi untuk volume: \\(0.5 \\times 0.4 = 0.2\\, m^3\\). \n\nSatuan liter sama dengan \\(m^3\\), jadi \\(0.2\\, m^3 = 200\\, L\\). \n\nMengisi ¾ akuarium artinya kita butuh \\(200 \\times 0.75 = 150\\, L\\)."
+      },
+      {
+        "content": "Langkah pertama: Hitung volume akuarium dengan rumus \\(V = l \\times w \\times t\\). Di sini, \\(l = 1 \\text{ m} = 100 \\text{ cm}\\), \\(w = 50 \\text{ cm}\\), dan \\(t = 40 \\text{ cm}\\). \n\n\\[V = 100 \\times 50 \\times 40 = 160.000 \\text{ cm}^3\\]\n\nLangkah kedua: Konversi volume dari \\(\\text{cm}^3\\) ke \\(\\text{liter}\\). Karena \\(1 \\text{ liter} = 1.000 \\text{ cm}^3\\), \n\n\\[160.000 \\text{ cm}^3 = 160 \\text{ liter}\\]\n\nLangkah ketiga: Hitung volume air yang dibutuhkan untuk mengisi \\(¾\\) bagian. \n\n\\[V_{\\text{min}} = \\frac{3}{4} \\times V = \\frac{3}{4} \\times 160 = 120 \\text{ liter}\\]\n\nJadi, **120 liter** air minimal yang dibutuhkan."
+      },
+      {
+        "content": "Pertama, kita perlu mengonversi ukuran ke satuan yang sama. Panjang 1 m = 100 cm, lebar 50 cm, dan tinggi 40 cm. Karena volume balok = panjang \\times lebar \\times tinggi, kita bisa menghitung volume total akuarium.\n\n\\[V_{\\text{total}} = 100 \\times 50 \\times 40 = 160.000 \\, \\text{cm}^3.\\]\n\nKarena akuarium diisi hingga ¾ bagian, kita perlu 3/4 \\times 160.000 \\, \\text{cm}^3."
+      },
+      {
+        "content": "Pertama, kita perlu mengonversi ukuran balok dari cm ke m. Panjang = 1 m, lebar = 0.5 m, tinggi = 0.4 m. Lalu, kita hitung volume balok dengan rumus V = panjang × lebar × tinggi."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah balok memiliki panjang 12 cm, lebar 7 cm, dan tinggi 5 cm. Hitunglah volumenya!",
+    "answers": [
+      {
+        "content": "Volumenya adalah hasil kali panjang, lebar, dan tingginya. \n\n\\(V = p \\times l \\times t\\) \n\nSubstitusi nilai panjang (12 cm), lebar (7 cm), dan tinggi (5 cm). \n\n\\(V = 12 \\times 7 \\times 5\\) \n\nHitung hasilnya!"
+      },
+      {
+        "content": "Pertama, kita harus tahu rumus volumenya. Rumus volumenya adalah: \\(V = P \\times L \\times T\\), di mana \\(V\\) adalah volumenya, \\(P\\) adalah panjangnya, \\(L\\) adalah lebarnya, dan \\(T\\) adalah tingginya.\n\nMisalnya, jika baloknya berukuran 12 cm \\(\\times\\) 7 cm \\(\\times\\) 5 cm, maka volumenya adalah:\n\n\\[V = 12 \\times 7 \\times 5 = 420 \\text{ cm}^3\\]\n\nJadi, volumenya adalah 420 cm³."
+      },
+      {
+        "content": "Mari kita hitung volumenya. Pertama, tentukan rumus volume balok: \\(V = \\text{panjang} \\times \\text{lebar} \\times \\text{tinggi}\\). Lalu, substitusi nilai-nya."
+      },
+      {
+        "content": "Volumenya adalah \\(12 \\times 7 \\times 5 = \\boxed{420}\\) cm³."
+      },
+      {
+        "content": "Untuk menentukan volumenya, kita harus mengalikan panjang, lebar, dan tingginya terlebih dahulu."
+      },
+      {
+        "content": "Baik, mari kita hitung. Pertama, kenapa kita perlu mencari luas permukaan balok?"
+      },
+      {
+        "content": "Untuk mencari volumenya, kita perlu mengalikan panjang, lebar, dan tingginya. Berapa hasilnya?"
+      },
+      {
+        "content": "Mari kita hitung! Volume balok = panjang \\times lebar \\times tinggi. Berapa hasilnya?"
+      }
+    ]
+  },
+  {
+    "prompt": "Jika luas permukaan kubus adalah 150 cm², berapa panjang rusuk kubus tersebut?",
+    "answers": [
+      {
+        "content": "Kubus memiliki 6 sisi yang sama. Jika luas permukaan kubus adalah 150 cm², maka luas satu sisi adalah \\(\\frac{150}{6} = 25\\) cm². Jika \\(s\\) adalah panjang rusuk, maka \\(s^2 = 25\\)."
+      },
+      {
+        "content": "Luas permukaan kubus = 6 × (panjang rusuk)². \n\n1. Tentukan panjang rusuk kubus dari luas permukaan. Berapa hasilnya?"
+      },
+      {
+        "content": "Mari kita analisis. Luas permukaan kubus = 6 × (panjang rusuk)². \n\nJika luas permukaan = 150 cm², maka 6 × (panjang rusuk)² = 150. \n\nBagaimana langkah selanjutnya?"
+      },
+      {
+        "content": "Kita kenal rumus luas permukaan kubus: \\(6a^2\\), di mana \\(a\\) adalah panjang rusuk. Coba selesaikan \\(6a^2=150\\) untuk menemukan \\(a\\)!"
+      },
+      {
+        "content": "Luas permukaan kubus adalah 6 kali luas rusuk. Coba hitung luas rusuk kubus tersebut!"
+      },
+      {
+        "content": "Pertama, kita butuhkan rumus luas permukaan kubus. Apakah kamu ingat rumusnya?"
+      },
+      {
+        "content": "Luas permukaan kubus = 6 * rusuk².\nJika luas = 150 cm², maka 150 = 6 * rusuk².\nRusuk² = 150 / 6 = 25 cm².\nRusuk = √25 = 5 cm."
+      },
+      {
+        "content": "Luas permukaan kubus = 6\\( \\times \\) (panjang rusuk)\\(^2\\)\n\nCoba hitung: 150 cm² = 6\\( \\times \\) (panjang rusuk)\\(^2\\)"
+      },
+      {
+        "content": "Pertanyaan bagus! Pertama, kenali rumus luas permukaan kubus:\n\\[6 \\times rusuk^2 = 150 \\, \\text{cm}^2\\]\nSekarang, apa yang harus kita lakukan selanjutnya?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah limas segitiga memiliki alas berbentuk segitiga siku-siku dengan panjang sisi 6 cm, 8 cm, dan 10 cm. Jika tinggi limas 12 cm, berapa volumenya?",
+    "answers": [
+      {
+        "content": "Pertama, kita perlu menghitung luas alasnya. Alasnya berbentuk segitiga siku-siku, jadi kita bisa pakai rumus luas segitiga:\n\n\\[Luas = \\frac{1}{2} \\times \\text{alas} \\times \\text{tinggi}\\]\n\nKarena alasnya segitiga siku-siku, tingginya adalah salah satu sisi yang tegak lurus dengan alas. Tinggi segitiga siku-siku yang berlawanan dengan sisi 8 cm adalah 6 cm. Jadi:\n\n\\[Luas = \\frac{1}{2} \\times 6 \\times 8 = 24\\ \\text{cm}^2\\]\n\nKemudian, kita pakai rumus volumenya:\n\n\\[Volumen = \\frac{1}{3} \\times Luas\\ \\text{alas} \\times Tinggi\\]\n\n\\[Volumen = \\frac{1}{3} \\times 24 \\times 12 = 96\\ \\text{cm}^3\\]\n\nJadi volumenya adalah 96 cm³."
+      },
+      {
+        "content": "Mari kita analisis satu per satu. Pertama, kita perlu menentukan jenis segitiga alasnya. Karena panjang sisi 6 cm, 8 cm, dan 10 cm membentuk tiga sisi yang membuat segitiga tersebut siku-siku, maka alasnya adalah segitiga siku-siku."
+      },
+      {
+        "content": "Pertama, kita harus mencari keliling alas. Keliling alas = \\(6 + 8 + 10 = 24\\) cm. Karena ini segitiga siku-siku, maka \\(24 = 2r\\). Maka \\(r = 24 / 2 = 12\\) cm. Karena \\(6^2 + 8^2 = 10^2\\), maka ini segitiga siku-siku.\n\nSelanjutnya, luas alas = \\(\\frac{1}{2} \\times 6 \\times 8 = 24\\) cm\\(^2\\). Jadi volumenya = \\(\\frac{1}{3} \\times 24 \\times 12 = 96\\) cm\\(^3\\)."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung volume limas segitiga. Volume limas segitiga diberikan oleh rumus:\n\n\\[ V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi} \\]\n\nKarena alas berbentuk segitiga siku-siku, kita perlu menghitung luas alasnya. Rumus luas segitiga siku-siku adalah:\n\n\\[ L = \\frac{1}{2} \\times \\text{Panjang Sisi 1} \\times \\text{Panjang Sisi 2} \\]\n\nKita punya panjang sisi 6 cm, 8 cm, dan 10 cm. Karena ini segitiga siku-siku, kita harus memilih dua sisi yang menjadi sisi tegak. Sisi tegaknya adalah 6 cm dan 8 cm. Jadi, luas alas adalah:\n\n\\[ L = \\frac{1}{2} \\times 6 \\times 8 = 24 \\text{ cm}^2 \\]\n\nSekarang, kita hitung volume limas. Tinggi limas adalah 12 cm. Jadi:\n\n\\[ V = \\frac{1}{3} \\times 24 \\times 12 = 96 \\text{ cm}^3 \\]\n\nJadi, volumenya adalah **96 cm³**."
+      },
+      {
+        "content": "Volumenya bisa dicari dengan rumus: \\(V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi}\\). Pertama, kita hitung luas alas. Karena alas adalah segitiga siku-siku, kita pakai rumus: \\(\\text{Luas} = \\frac{1}{2} \\times \\text{Alas} \\times \\text{Tinggi}\\). Disini alasnya 6 cm dan tingginya 8 cm. Jadi luas alasnya \\(\\frac{1}{2} \\times 6 \\times 8 = 24\\) cm²."
+      },
+      {
+        "content": "Pertama, hitung keliling alasnya. Rumus keliling segitiga siku-siku: \\(k = p + q + r\\), di mana \\(p\\), \\(q\\), dan \\(r\\) adalah panjang sisi."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung volume limas segitiga. Rumusnya:\n\n\\[V = \\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi}\\]\n\nDi sini, alasnya segitiga siku-siku. Luas alas segitiga siku-siku dapat dicari dengan:\n\n\\[L = \\frac{1}{2} \\times \\text{panjang alas} \\times \\text{tinggi alas}\\]\n\nKarena alasnya segitiga siku-siku, tinggi alasnya adalah salah satu sisi siku-siku. Di sini, alasnya segitiga siku-siku dengan sisi 6 cm, 8 cm, dan 10 cm. Yang menjadi alas segitiga siku-siku adalah 6 cm dan 8 cm. \n\nPertanyaan: Apa tinggi alas segitiga siku-siku dengan sisi 6 cm dan 8 cm?"
+      },
+      {
+        "content": "Mari kita analisis! Limas segitiga dengan alas segitiga siku-siku memiliki volume \\(V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi}\\). Pertama, kita perlu menentukan luas alas. Apa rumus luas alas segitiga siku-siku?"
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas alas. Karena alas adalah segitiga siku-siku, kita bisa menggunakan rumus \\(\\frac{1}{2} \\times \\text{alas} \\times \\text{tinggi}\\) untuk tiap sisi. \n\nMisalnya, untuk sisi \\(6\\) cm:\n\\[\\frac{1}{2} \\times 6 \\times \\frac{10}{2} = 15 \\text{ cm}^2\\]\n\nLalu untuk sisi \\(8\\) cm:\n\\[\\frac{1}{2} \\times 8 \\times \\frac{6}{2} = 12 \\text{ cm}^2\\]\n\nDan untuk sisi \\(10\\) cm:\n\\[\\frac{1}{2} \\times 10 \\times \\frac{8}{2} = 20 \\text{ cm}^2\\]\n\nMaka luas alas total:\n\\[15 + 12 + 20 = 47 \\text{ cm}^2\\]\n\nVolumenya:\n\\[47 \\times 12 = 564 \\text{ cm}^3\\]\n\nJadi volumenya adalah **564 cm³**."
+      }
+    ]
+  },
+  {
+    "prompt": "Hitung panjang diagonal bidang pada balok dengan panjang 9 cm, lebar 6 cm, dan tinggi 8 cm!",
+    "answers": [
+      {
+        "content": "Pertama, hitung volume balok:\n\\[ V = p \\times l \\times t \\]\n\\[ V = 9 \\times 6 \\times 8 = 432 \\, \\text{cm}^3 \\]\n\nKarena balok tersebut memiliki volume 432 \\(\\text{cm}^3\\), dan kita ingin mengetahui volume lain yang memiliki diagonal yang sama dengan diagonal balok, maka:\n\\[ V_{\\text{diagonal}} = \\frac{V}{2} = \\frac{432}{2} = 216 \\, \\text{cm}^3 \\]\n\nJika volume balok 432 \\(\\text{cm}^3\\) adalah volume bidang balok dengan diagonal, maka:\n\\[ \\frac{1}{2} \\times p \\times l \\times t = 216 \\]\n\\[ 9 \\times 6 \\times 8 = 432 \\, \\text{cm}^3 \\]\n\nJadi, volume balok 432 \\(\\text{cm}^3\\) adalah volume bidang balok dengan diagonal."
+      },
+      {
+        "content": "Pertama, kita hitung luas permukaan balok:\n\\[L = 2 \\times (P \\times L + P \\times T + L \\times T)\\]\n\\[L = 2 \\times (9 \\times 6 + 9 \\times 8 + 6 \\times 8)\\]\n\\[L = 2 \\times (54 + 72 + 48)\\]\n\\[L = 2 \\times 174\\]\n\\[L = 348\\] cm²\n\nSekarang, luas segitiga (diagonal) = ½ \\times alas \\times tinggi.\nUntuk diagonal 1 (panjang × lebar):\n\\[L_{1} = ½ \\times 9 \\times 6 = 27\\] cm²\nUntuk diagonal 2 (panjang × tinggi):\n\\[L_{2} = ½ \\times 9 \\times 8 = 36\\] cm²\nUntuk diagonal 3 (lebar × tinggi):\n\\[L_{3} = ½ \\times 6 \\times 8 = 24\\] cm²\n\nTotal luas segitiga = 27 + 36 + 24 = 87 cm².\n\nKarena total luas balok = 348 cm², maka luas bidang (diagonal) = 87 cm².\nDengan demikian, panjang diagonal = \\(\\sqrt{87}\\) cm.\n\nJadi, panjang diagonal balok = 9.33 cm."
+      },
+      {
+        "content": "Mari kita coba! Panjang diagonal balok dapat dihitung dengan rumus:\n\\[d = \\sqrt{p^2 + l^2 + t^2}\\]\nDi mana \\(p\\) adalah panjang, \\(l\\) adalah lebar, dan \\(t\\) adalah tinggi balok.\n\nPertama, hitung:\n\\[p^2 = 9^2 = 81\\]\n\\[l^2 = 6^2 = 36\\]\n\\[t^2 = 8^2 = 64\\]\n\nSekarang, tambahkan:\n\\[81 + 36 + 64 = 181\\]\n\nTerakhir, ambil akar kuadrat:\n\\[\\sqrt{181} = 13.5\\text{ cm}\\]\n\nJadi, diagonal balok tersebut adalah **13.5 cm**."
+      },
+      {
+        "content": "Pertanyaan menarik! Mari kita selesaikan bersama. Apa yang kamu ketahui tentang diagonal balok?"
+      },
+      {
+        "content": "Pertama, kenapa balok mempunyai diagonal? Apakah kamu sudah tahu?"
+      },
+      {
+        "content": "Pertama, kita hitung sisi-sisi samping balok: \n\n- Panjang sisi 1 = \\(9\\text{ cm}\\)\n- Panjang sisi 2 = \\(6\\text{ cm}\\)\n- Panjang sisi 3 = \\(8\\text{ cm}\\)\n\nKita gunakan teorema Pythagoras untuk mencari diagonal bidang:\n\n- \\(d_1 = \\sqrt{(9\\text{ cm})^2 + (6\\text{ cm})^2} = \\sqrt{81\\text{ cm}^2 + 36\\text{ cm}^2} = \\sqrt{117\\text{ cm}^2} = 10.85\\text{ cm}\\)\n- \\(d_2 = \\sqrt{(6\\text{ cm})^2 + (8\\text{ cm})^2} = \\sqrt{36\\text{ cm}^2 + 64\\text{ cm}^2} = \\sqrt{100\\text{ cm}^2} = 10\\text{ cm}\\)\n\nDari hasil di atas, **panjang diagonal balok adalah 10.85 cm dan 10 cm**."
+      },
+      {
+        "content": "Pertama, kita hitung luas permukaan balok. Rumusnya adalah:\n\\[Luas = 2 \\times (panjang \\times lebar + lebar \\times tinggi + tinggi \\times panjang)\\]\n\nHitung luas permukaan balok dengan panjang 9 cm, lebar 6 cm, dan tinggi 8 cm!"
+      },
+      {
+        "content": "Oke, mari kita hitung. Diagonal balok adalah jarak dari sudut balok ke sudut lainnya. Mau hitung diagonal utama atau diagonal sekunder?"
+      },
+      {
+        "content": "Kita kenal rumus panjang diagonal balok sebagai \\( \\sqrt{p^2 + l^2 + t^2} \\) dengan \\( p \\) = panjang, \\( l \\) = lebar, dan \\( t \\) = tinggi. Substitusi nilai yang ada: \\( \\sqrt{9^2 + 6^2 + 8^2} \\)."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah kolam renang berbentuk balok berukuran panjang 10 m, lebar 4 m, dan kedalaman 1,5 m. Berapa liter air yang dibutuhkan untuk mengisi kolam hingga penuh?",
+    "answers": [
+      {
+        "content": "Untuk menghitung volume balok, kita gunakan rumus:\n\n\\[ V = l \\times w \\times t \\]\n\nDi mana \\( V \\) adalah volume, \\( l \\) adalah panjang, \\( w \\) adalah lebar, dan \\( t \\) adalah tinggi (atau kedalaman). \n\nCoba hitung volume balok dengan menggunakan data yang disediakan!"
+      },
+      {
+        "content": "Pertama, kita perlu menentukan volume balok. Rumusnya adalah panjang \\times lebar \\times tinggi. Berapa volume balok kolam renang?"
+      },
+      {
+        "content": "Pertama-tama, kita perlu menghitung volume balok. Rumus volume balok adalah panjang × lebar × kedalaman.\n\nVolume balok = panjang × lebar × kedalaman\n= 10 m × 4 m × 1,5 m\n= 60 m³\n\nKarena 1 m³ = 1.000 L, maka volume balok dalam liter:\n60 m³ × 1.000 L/m³ = 60.000 L\n\nJadi, kolam renang tersebut membutuhkan air sebanyak 60.000 L untuk diisi hingga penuh."
+      },
+      {
+        "content": "Mari kita mulai! Pertama, kita butuh volume balok. Apakah kamu tahu rumus volume balok?"
+      },
+      {
+        "content": "Pertama, hitung volumenya. Rumus volume balok: \\(V = p \\times l \\times t\\). Coba masukkan nilai!"
+      },
+      {
+        "content": "Mari kita hitung langkah demi langkah. Pertama, kita butuh luas permukaan dasar kolam, yang bisa dihitung dengan rumus \\(L \\times B\\). Di sini, \\(L = 10\\) m dan \\(B = 4\\) m. Berapa hasilnya?"
+      }
+    ]
+  },
+  {
+    "prompt": "Dua kubus memiliki perbandingan rusuk 2:5. Jika volume kubus kecil adalah 64 cm³, berapa volume kubus besar?",
+    "answers": [
+      {
+        "content": "Pertanyaan menarik! Pertama, kita perlu mengerti hubungan antara rusuk dan volume kubus. Volume kubus = \\(side^3\\). Sehingga, jika rusuk kubus kecil adalah 4 cm, maka volume kubus kecil adalah \\(4^3 = 64\\) cm³. Sekarang, kita perlu menemukan rusuk kubus besar. \n\nBerapa panjang rusuk kubus kecil jika volume kubus kecil adalah 64 cm³?"
+      },
+      {
+        "content": "Pertama, kita harus menentukan panjang rusuk kubus kecil. Karena 64 cm³ adalah volume kubus, maka panjang rusuknya adalah 4 cm.\n\nSelanjutnya, kita dapat menggunakan proporsi untuk menentukan panjang rusuk kubus besar. Jika perbandingan rusuk 2:5, maka untuk setiap 2 cm rusuk kecil ada 5 cm rusuk besar. \n\nMisalkan \\(x\\) cm adalah panjang rusuk kubus besar. Maka \\(4x = 5 \\times 4\\), sehingga \\(x = \\frac{5 \\times 4}{4} = 5\\) cm. \n\nJadi volume kubus besar adalah \\(5^3 = 125\\) cm³."
+      },
+      {
+        "content": "Mari kita mulai. Apa yang kamu ketahui tentang volume kubus?"
+      },
+      {
+        "content": "Volume kubus dihitung dengan rumus \\(V = s^3\\), di mana \\(s\\) adalah panjang rusuknya. Perbandingan rusuk kubus kecil dan besar adalah 2:5, sehingga panjang rusuknya adalah 2x dan 5x. \n\nVolume kubus kecil adalah \\(64 = (2x)^3\\), jadi \\(x = 2\\). Volume kubus besar adalah \\((5x)^3 = (5 \\times 2)^3 = 5^3 \\times 2^3 = 125 \\times 8 = 1000\\) cm³."
+      },
+      {
+        "content": "Pertama, hitung volume kubus besar. Lalu bandingkan dengan volume kubus kecil."
+      },
+      {
+        "content": "Pertama, kita tentukan panjang rusuk kubus kecil. Karena \\(64 = 4^3\\), maka rusuk kubus kecil adalah 4 cm. Selanjutnya, karena perbandingan rusuk 2:5, maka rusuk kubus besar adalah 10 cm. Volume kubus besar = \\(10^3 = 1000\\) cm³."
+      },
+      {
+        "content": "Pertama, kita perlu menentukan panjang rusuk kubus kecil. Karena volume kubus = s³, maka s = \\sqrt[3]{64} = 4 cm."
+      },
+      {
+        "content": "Pertama, kita tentukan panjang sisi kubus kecil. Karena \\(2^3 = 8\\) cm³, maka sisi kubus kecil adalah 2 cm. Sekarang, kita hitung sisi kubus besar:\n\\[5 \\text{ cm} = 2 \\text{ cm} \\times \\sqrt{5/2}.\\]Jika sisi kubus kecil adalah 2 cm, maka sisi kubus besar adalah 5 cm. Karena \\(5^3 = 125\\) cm³, maka volume kubus besar adalah **125 cm³**."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah prisma segitiga memiliki alas segitiga sama sisi dengan panjang sisi 6 cm dan tinggi prisma 10 cm. Hitung luas permukaan prisma tersebut!",
+    "answers": [
+      {
+        "content": "Mari kita analisis:\n\n1. **Luas alas**: Sebuah segitiga sama sisi dengan sisi 6 cm memiliki luas alas \\(\\frac{1}{2} \\times \\text{alas} \\times \\text{tinggi} = \\frac{1}{2} \\times 6 \\times 6 = 18 \\text{ cm}^2\\).\n2. **Luas permukaan sisi**: Karena prisma segitiga memiliki sisi vertikal (sisi tegak) yang membelakangi alas, maka setiap sisi vertikal memiliki luas \\(6 \\times 10 = 60 \\text{ cm}^2\\). Prisma segitiga memiliki 3 sisi vertikal, jadi total luas permukaan sisi vertikal \\(3 \\times 60 = 180 \\text{ cm}^2\\).\n3. **Luas permukaan seluruh prisma**: Total luas permukaan prisma segitiga adalah **luas alas + 3 \\times luas permukaan sisi vertikal** = \\(18 + 180 = 198 \\text{ cm}^2\\).\n\nJadi, **luas permukaan prisma segitiga** adalah **198 cm²**."
+      },
+      {
+        "content": "Luas permukaan prisma segitiga terdiri dari luas alas dan luas sisi. Luas alas prisma segitiga sama sisi adalah \\((\\frac{1}{2} \\times sisi \\times sisi) \\times 3 = (\\frac{1}{2} \\times 6 \\times 6) \\times 3 = 54 \\, \\text{cm}^2\\). Luas sisi prisma segitiga sama sisi adalah \\((sisi \\times tinggi) \\times 3 = (6 \\times 10) \\times 3 = 180 \\, \\text{cm}^2\\). Jadi, luas permukaan prisma segitiga sama sisi adalah \\(54 + 180 = 234 \\, \\text{cm}^2\\)."
+      },
+      {
+        "content": "Mari kita analisis langkah demi langkah. \n\nPertama, kita hitung luas alas prisma. Karena alasnya segitiga sama sisi, kita bisa gunakan rumus luas segitiga sama sisi: \\( \\frac{1}{2} \\times \\text{panjang sisi} \\times \\text{tinggi} \\). Tapi di sini, alasnya segitiga sama sisi, bukan sama kaki. Jadi kita perlu rumus yang berbeda."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas alasnya. Rumus luas segitiga sama sisi adalah \\(\\frac{1}{2} \\times \\text{panjang sisi} \\times \\text{tinggi}\\). Tinggi segitiga sama sisi ini adalah 6 cm. Jadi, \\(\\frac{1}{2} \\times 6 \\times 6 = 18\\) cm²."
+      },
+      {
+        "content": "Pertama, kita hitung luas alas prisma. Sebagai segitiga sama sisi, alasnya adalah \\(\\frac{1}{2} \\times 6 \\times 6 = 18\\) cm². Karena ada 3 sisi segitiga sama sisi, total luas alas prisma adalah \\(3 \\times 18 = 54\\) cm²."
+      },
+      {
+        "content": "Pertama, hitung luas alas prisma. Karena alasnya segitiga sama sisi, luas alas = \\((1/2) \\times 6 \\times 6 = 18\\) cm². \n\nKarena tinggi prisma 10 cm, maka panjang sisi miring prisma = \\(\\sqrt{6^2 + 10^2} = \\sqrt{36 + 100} = \\sqrt{136} = 4\\sqrt{34}\\) cm. \n\nJika tinggi prisma 10 cm, maka tinggi seluruh prisma = \\(6 \\times 10 = 60\\) cm. \n\nLuas permukaan sisi miring = \\(18 \\times 4\\sqrt{34} = 72\\sqrt{34}\\) cm². \n\nTotal luas permukaan prisma = \\(18 \\times 2 + 72\\sqrt{34} = 36 + 72\\sqrt{34}\\) cm². \n\nJadi, luas permukaan prisma = \\(36 + 72\\sqrt{34} \\approx 36 + 247.84 = 283.84\\) cm²."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah kotak kayu berbentuk kubus akan dicat seluruh permukaannya. Jika biaya pengecatan Rp15.000 per m² dan panjang rusuk kotak 2 m, berapa total biaya yang dibutuhkan?",
+    "answers": [
+      {
+        "content": "Mari kita mulai!\n\n1. Pertama, kita butuh hitung luas permukaan kotak. Rumus luas permukaan kubus adalah \\(6a^2\\), di mana \\(a\\) adalah panjang rusuk. Jadi:\n\n\\[6 \\times 2^2\\]\n\nCoba hitung sendiri!"
+      },
+      {
+        "content": "Langkah pertama: Hitung luas permukaan kubus. Karena ada 6 rusuk, total luas permukaan = 6 × luas rusuk. Luas rusuk = 2² = 4 m². Total luas permukaan = 6 × 4 = 24 m²."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas permukaan kubus. Kubus memiliki 6 rusuk, jadi total luas permukaannya adalah:\n\n\\[6 \\times (2 \\times 2) = 24\\, \\text{m}^2\\]\n\nKarena setiap m² dicat dengan biaya Rp15.000, total biaya yang dibutuhkan adalah:\n\n\\[24 \\times 15.000 = 360.000\\]\n\nJadi, total biaya yang dibutuhkan untuk mengcat kotak kayu adalah Rp360.000."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas seluruh permukaan kubus. Untuk itu, kita perlu tahu:\n\n- Jumlah rusuk kubus: 6 rusuk\n- Panjang setiap rusuk: 2 m\n- Satuan luas: meter persegi (m²)\n\nSebelum lanjut, coba kamu hitung sendiri luas satu sisi kubus (misal, rusuk sepanjang 2 m). Berapa luasnya?"
+      },
+      {
+        "content": "Mari kita analisis. Volume kubus = panjang rusuk³. Misal panjang rusuk = 2 m, maka volume kubus = 2³ = 8 m³."
+      },
+      {
+        "content": "Pertama, kita perlu hitung luas permukaan kotak. \n\nKarena kotak berbentuk kubus, seluruh permukaannya terdiri dari 6 buah persegi panjang dengan panjang rusuk 2 m sebagai sisi. \n\nJadi luas seluruh permukaan = 6 × luas satu rusuk² \n\nMenghitung luas satu rusuk: sisi = 2 m → luas = sisi² = 2² = 4 m² \n\nLalu, total luas = 6 × 4 = 24 m² \n\nKarena biaya pengecatan Rp15.000 per m², total biaya = 24 × Rp15.000 = Rp360.000 \n\nJadi total biaya yang dibutuhkan adalah Rp360.000."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah limas segiempat memiliki volume 360 cm³. Jika panjang alasnya 9 cm dan lebarnya 8 cm, berapa tinggi limas tersebut?",
+    "answers": [
+      {
+        "content": "Volume limas segiempat ditentukan oleh rumus \\(V = \\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi}\\). Jika volume \\(V = 360 \\text{ cm}^3\\), luas alas \\(9 \\times 8 = 72 \\text{ cm}^2\\), berapa tinggi limas?"
+      },
+      {
+        "content": "Pertama, kita harus menghitung luas alas. Rumusnya:\n\\[ \\text{Luas Alas} = \\text{Panjang Alas} \\times \\text{Lebar Alas} \\]\n\\[ = 9 \\times 8 = 72 \\text{ cm}^2 \\]\n\nLalu, kita gunakan rumus volume limas:\n\\[ V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi Limas} \\]\n\n\\[ 360 = \\frac{1}{3} \\times 72 \\times \\text{Tinggi Limas} \\]\n\n\\[ \\text{Tinggi Limas} = \\frac{360 \\times 3}{72} = \\boxed{15} \\text{ cm} \\]\n\nJadi, tinggi limas tersebut adalah **15 cm**."
+      },
+      {
+        "content": "Pertanyaan bagus! Mari kita analisis. Volume limas segiempat = \\frac{1}{3} \\times luas alas \\times tinggi. \n\nTinggi limas = \\frac{3 \\times volume}{luas alas}. \n\nLuas alas = panjang alas \\times lebar alas = 9 \\times 8 = 72 cm².\n\nVolume = 360 cm³. \n\nTinggi limas = \\frac{3 \\times 360}{72} = \\frac{1080}{72} = 15 cm. \n\nJadi, tinggi limas tersebut adalah 15 cm."
+      },
+      {
+        "content": "Pertanyaan bagus! Pertama, kita perlu mengetahui rumus volume limas segiempat. Apa yang kamu ketahui tentang rumus volume limas?"
+      },
+      {
+        "content": "Volume limas = \\(1/3 \\times \\text{luas alas} \\times \\text{tinggi}\\). Di sini luas alas = \\(9 \\times 8 = 72\\) cm². Tinggi = \\(V / (72/3) = 360 / 24 = 15\\) cm."
+      },
+      {
+        "content": "Pertanyaan menarik! Mari kita hitung bersama. Apa rumus volume limas yang kamu kenal?"
+      },
+      {
+        "content": "Mari kita coba! \n\nPertama, kita perlu menentukan rumus volume limas segiempat. Rumusnya adalah:\n\n\\[ V = \\frac{1}{3} \\times \\text{luas alas} \\times \\text{tinggi} \\]\n\nKarena alasnya segiempat, luas alasnya adalah:\n\n\\[ \\text{luas alas} = \\text{panjang alas} \\times \\text{lebar alas} \\]\n\nBagaimana luas alasnya?"
+      }
+    ]
+  },
+  {
+    "prompt": "Hitung jumlah panjang seluruh rusuk sebuah balok dengan ukuran 15 cm × 10 cm × 7 cm!",
+    "answers": [
+      {
+        "content": "Pertama, kita harus paham apa itu rusuk. Rusuk adalah sebagian dari sisi balok. Untuk balok dengan ukuran 15 cm × 10 cm × 7 cm, ada 6 rusuk. Kita bisa menghitungnya dengan rumus: rusuk = (panjang × lebar) + (panjang × tinggi) + (lebar × tinggi)."
+      },
+      {
+        "content": "Pertama, kita harus menghitung luas seluruh permukaan balok tersebut. \n\nUntuk itu, kita perlu mengalikan panjang, lebar, dan tinggi balok. \n\nBisa kamu hitung luas permukaan balok tersebut?"
+      },
+      {
+        "content": "Bagus! Mari kita analisis. Rusuk balok adalah: \n- 4 rusuk sisi (panjang × lebar) = 4 × (15 × 10)\n- 4 rusuk tinggi (panjang × tinggi) = 4 × (15 × 7)\n- 2 rusuk panjang (lebar × tinggi) = 2 × (10 × 7)\n\nJumlah panjang rusuk = \n4 × (15 × 10) + 4 × (15 × 7) + 2 × (10 × 7) = \n600 + 420 + 140 = 1160 cm\n\nJadi, total panjang rusuk balok tersebut adalah 1160 cm!"
+      },
+      {
+        "content": "Pertama, hitung jumlah rusuk pada balok itu. Balok memiliki 6 rusuk: 2 rusuk panjang (15 cm), 2 rusuk lebar (10 cm), dan 2 rusuk tinggi (7 cm). Berapa total rusuknya?"
+      },
+      {
+        "content": "Pertama, kita perlu tahu ada rusuk panjang, rusuk pendek, dan rusuk tegak. Di balok ini, rusuk panjang = 15 cm, rusuk pendek = 10 cm, rusuk tegak = 7 cm. Jumlah rusuk = 6. \n\nKalau hitung rusuk panjang, ada 4 rusuk. Jadi panjang total rusuk panjang = 4 × 15 cm = 60 cm. \n\nKalau hitung rusuk pendek, ada 4 rusuk. Jadi panjang total rusuk pendek = 4 × 10 cm = 40 cm. \n\nKalau hitung rusuk tegak, ada 4 rusuk. Jadi panjang total rusuk tegak = 4 × 7 cm = 28 cm. \n\nJumlah total panjang seluruh rusuk = 60 cm + 40 cm + 28 cm = 128 cm."
+      },
+      {
+        "content": "Tentu! Kita hitung satu persatu. Ada 4 rusuk dengan panjang 15 cm. Jumlah panjangnya adalah \\(4 \\times 15 = 60\\) cm. Ada 4 rusuk dengan panjang 10 cm. Jumlah panjangnya adalah \\(4 \\times 10 = 40\\) cm. Ada 4 rusuk dengan panjang 7 cm. Jumlah panjangnya adalah \\(4 \\times 7 = 28\\) cm. Jadi totalnya adalah \\(60 + 40 + 28 = 128\\) cm."
+      },
+      {
+        "content": "Oke! Terlebih dahulu, apa itu rusuk pada balok?"
+      },
+      {
+        "content": "Tentu! Untuk balok dengan ukuran panjang × lebar × tinggi, kita hitung panjang seluruh rusuknya. Rusuk di balok adalah:\n\n1. Panjang (p) rusuk panjang = panjang × lebar = 15 × 10 = 150 cm\n2. Panjang (p) rusuk lebar = panjang × tinggi = 15 × 7 = 105 cm\n3. Panjang (p) rusuk tinggi = lebar × tinggi = 10 × 7 = 70 cm\n\nJumlah panjang seluruh rusuk balok = (2 × p) + (2 × p) + (2 × p)\n= (2 × 150) + (2 × 105) + (2 × 70)\n= 300 + 210 + 140\n= 650 cm\n\nJadi, jumlah panjang seluruh rusuk balok adalah **650 cm**."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah kubus dengan rusuk 4 cm diperbesar sehingga volumenya menjadi 8 kali lipat. Berapa panjang rusuk kubus setelah diperbesar?",
+    "answers": [
+      {
+        "content": "Mari kita analisis terlebih dahulu. Misalkan panjang rusuk kubus awal adalah \\(a\\). Jadi volume kubus awal adalah \\(a^3\\).\n\nSekarang kubus diperbesar sehingga volumenya menjadi 8 kali lipat. Jadi volumenya menjadi \\(8a^3\\).\n\nJika panjang rusuk setelah diperbesar adalah \\(b\\), maka volumenya adalah \\(b^3\\). Karena volumenya 8 kali lipat, maka:\n\n\\[b^3 = 8a^3\\]\n\nBagaimana cara kita menentukan \\(b\\) dari persamaan ini?"
+      },
+      {
+        "content": "Pertama, kita cari volumenya dengan rumus \\(V = s^3\\), di mana \\(s\\) adalah rusuk. Jadi volumenya \\(4^3 = 64\\) cm³. Jika diperbesar 8 kali lipat, maka volumenya menjadi \\(8 \\times 64 = 512\\) cm³. \n\nKarena volumenya \\(V = s^3\\), maka \\(s = \\sqrt[3]{512} = 8\\) cm. Jadi panjang rusuk kubus setelah diperbesar adalah **8 cm**."
+      },
+      {
+        "content": "Langkah pertama: Tentukan hubungan antara panjang rusuk dan volumenya.\nLangkah kedua: Hitung volumenya sebelum dan setelah diperbesar.\nLangkah ketiga: Gunakan hubungan tersebut untuk menentukan panjang rusuk yang baru."
+      },
+      {
+        "content": "Mari kita analisis!\n\n1. Volume kubus awal = \\(4^3\\) = \\(64\\) cm³.\n2. Volume kubus akhir = \\(8 \\times 64\\) = \\(512\\) cm³.\n3. Volume kubus akhir = \\(\\text{rusuk}^3\\).\n4. Coba hitung rusuk kubus akhir!"
+      },
+      {
+        "content": "Mari kita analisis volumenya. Volume kubus = rusuk³. Jika kubus aslinya = 4³ = 64 cm³, maka volumenya setelah diperbesar = 64 × 8 = 512 cm³. Rumus baru volume = rusuk². Jadi rusuk² = 512. Rusuk baru = √512 = 16 cm."
+      },
+      {
+        "content": "Mari kita coba!\n\n1. Hitung volumenya sebelum diperbesar. Volumenya = rusuk³ = 4³ = 64 cm³.\n2. Jika volumenya 8 kali lipat, maka volumenya baru = 8 \\times 64 = 512 cm³.\n3. Hitung rusuk baru: rusuk³ = 512. Maka rusuk = \\sqrt[3]{512} = 8 cm.\n\nBenar?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah prisma trapesium memiliki alas trapesium dengan panjang sisi sejajar 5 cm dan 8 cm, serta tinggi trapesium 4 cm. Jika tinggi prisma 10 cm, berapa volumenya?",
+    "answers": [
+      {
+        "content": "Sebelumnya, kita harus menentukan luas alas trapesium. Untuk itu, kita membutuhkan sisi samping trapesium. Diketahui tinggi trapesium 4 cm. Jika panjang sisi sejajar 5 cm dan 8 cm, maka sisi sampingnya harus berbentuk garis lurus yang melalui titik-titik sudut dan ujung-ujung sisi sejajar."
+      },
+      {
+        "content": "Pertama, kita perlu menghitung luas alas trapesium. Rumus luas alas trapesium adalah \\(\\frac{1}{2} \\times (p_1 + p_2) \\times h\\), di mana \\(p_1\\) dan \\(p_2\\) adalah panjang sisi sejajar, dan \\(h\\) adalah tinggi trapesium. Tapi, di soal ini, tinggi trapesium sama dengan tinggi prisma, yaitu 10 cm. Cukup konyol, kan?"
+      },
+      {
+        "content": "Mari kita pecahkan bersama! Langkah pertama: Hitung keliling alas trapesium. Keliling = 5 + 8 + 2 \\times tinggi = 13 + 8 = 21 cm. Lalu, berapa luas alasnya?"
+      },
+      {
+        "content": "Pertama, kita perlu menentukan luas alas prisma. Apa rumusnya?"
+      },
+      {
+        "content": "Mari kita analisis. Volumenya = \\frac{1}{2} \\times \\text{Luas Alas} \\times \\text{Tinggi Prisma}.\n\nLuas alas = \\frac{1}{2} \\times (5 + 8) \\times 4 = 26 \\text{ cm}^2.\n\nVolumenya = \\frac{1}{2} \\times 26 \\times 10 = 130 \\text{ cm}^3."
+      },
+      {
+        "content": "Untuk menemukan volume prisma trapesium, kita butuh:\n1. Luas alas trapesium (L)\n2. Tinggi prisma (h)\n\nLangkah 1: Hitung luas alas trapesium. Rumus:\n\\[ L = \\frac{1}{2} \\times (a + b) \\times h_{trapesium} \\]\nDi mana \\(a = 5\\), \\(b = 8\\), dan \\(h_{trapesium} = 4\\).\n\nHitung:\n\\[ L = \\frac{1}{2} \\times (5 + 8) \\times 4 = \\frac{1}{2} \\times 13 \\times 4 = 26 \\text{ cm}^2 \\]\n\nLangkah 2: Hitung volumenya dengan rumus:\n\\[ V = L \\times h_{prisma} \\]\nDi mana \\(L = 26\\) dan \\(h_{prisma} = 10\\).\n\nHitung:\n\\[ V = 26 \\times 10 = 260 \\text{ cm}^3 \\]\n\nJadi, volumenya adalah **260 cm³**."
+      },
+      {
+        "content": "Pertama, kita perlu menentukan luas alas prisma trapesium. Untuk itu, kita butuhkan luas alas trapesium. Misalnya, jika alas trapesiumnya \\(A = 5 \\text{ cm} + 8 \\text{ cm} \\times \\frac{4}{2} \\text{ cm} = 18 \\text{ cm}^2\\). \n\nKemudian, kita mengalikan luas alas dengan tinggi prisma untuk mendapatkan volumenya. Jadi, \\(V = 18 \\text{ cm}^2 \\times 10 \\text{ cm} = 180 \\text{ cm}^3\\)."
+      },
+      {
+        "content": "Pertama, kita perlu menentukan luas alas prisma. Karena alasnya trapesium, kita pakai rumus luas trapesium:\n\n\\[L = \\frac{1}{2}(a + b) \\times h\\]\n\nDi mana \\(a = 5\\), \\(b = 8\\), dan \\(h = 4\\). Coba hitung \\(L\\)!"
+      },
+      {
+        "content": "Langkah pertama: Hitung luas alas prisma. Karena alasnya trapesium, kita gunakan rumus:\n\\[L = \\frac{1}{2}(a + b) \\times h\\]\ndengan \\(a = 5\\), \\(b = 8\\), dan \\(h = 4\\).\n\n\\[L = \\frac{1}{2}(5 + 8) \\times 4 = \\frac{1}{2}(13) \\times 4 = 26\\,cm^2\\]\n\nLangkah kedua: Hitung volume prisma dengan rumus:\n\\[V = L \\times h_p\\]\ndengan \\(L = 26\\,cm^2\\) dan \\(h_p = 10\\,cm\\).\n\n\\[V = 26 \\times 10 = 260\\,cm^3\\]\n\nJadi volumenya \\(260\\,cm^3\\)."
+      }
+    ]
+  },
+  {
+    "prompt": "Dua balok memiliki volume yang sama. Balok pertama berukuran 6 cm × 5 cm × 4 cm. Jika balok kedua memiliki panjang 10 cm dan lebar 6 cm, berapa tingginya?",
+    "answers": [
+      {
+        "content": "Pertama, kita hitung volume balok pertama:\n\\[V_1 = 6 \\times 5 \\times 4 = 120 \\text{ cm}^3\\]\n\nKita tahu volume balok kedua sama:\n\\[V_2 = 10 \\times 6 \\times t = 120 \\text{ cm}^3\\]\n\nMengapa? Karena volume sama berarti keliling luas sama. Jadi, tinggi \\(t\\) adalah:\n\\[t = \\frac{120}{10 \\times 6} = 2 \\text{ cm}\\]\n\nJadi tingginya 2 cm."
+      },
+      {
+        "content": "Mari kita analisis:\n\nVolume balok = Panjang × Lebar × Tinggi\n\nVolume balok 1 = 6 × 5 × 4 = 120 cm³\nVolume balok 2 = 10 × 6 × tinggi (T) = 60T cm³\n\nKarena keduanya memiliki volume sama, maka 120 = 60T. Tinggi balok 2 = 120 / 60 = 2 cm."
+      },
+      {
+        "content": "Mari kita hitung! Volume balok pertama = panjang × lebar × tinggi = 6 × 5 × 4 = 120 cm³.\n\nVolume balok kedua = panjang × lebar × tinggi = 10 × 6 × tinggi.\n\nKarena volume sama, maka:\n10 × 6 × tinggi = 120 cm³\n\nTinggi = 120 ÷ (10 × 6) = 2 cm\n\nJadi, tinggi balok kedua = 2 cm."
+      },
+      {
+        "content": "Mari kita hitung volumenya terlebih dahulu. Rumus volume = panjang × lebar × tinggi. Coba pakai rumus ini untuk balok pertama."
+      },
+      {
+        "content": "Volume balok pertama = \\(6 \\times 5 \\times 4 = 120\\) cm³. Volume balok kedua = \\(10 \\times 6 \\times x = 60x\\) cm³. Karena volume sama, \\(120 = 60x\\). Bagaimana menyelesaikan \\(x\\)?"
+      },
+      {
+        "content": "Pertama, kita hitung volume balok pertama. Rumus volume balok: \\(V = p \\times l \\times t\\).\n\nKita substitusi: \\(V = 6 \\times 5 \\times 4 = 120 \\, \\text{cm}^3\\).\n\nSekarang, kita cari tinggi balok kedua. Rumus volume balok: \\(V = p \\times l \\times t\\).\n\nKita substitusi: \\(120 = 10 \\times 6 \\times t\\).\n\nSekarang kita hitung \\(t\\): \\(t = \\frac{120}{10 \\times 6} = \\frac{120}{60} = 2\\).\n\nJadi, tinggi balok kedua adalah **2 cm**."
+      },
+      {
+        "content": "Pertama, hitung luas alas balok pertama. Luas alas = panjang \\times lebar = 6 \\times 5 = 30 cm².\n\nKarena volume sama, hitung volume balok pertama. Volume = luas alas \\times tinggi = 30 \\times 4 = 120 cm³.\n\nVolume balok kedua = 120 cm³. Jika luas alasnya 10 \\times 6 = 60 cm², tinggi = volume / luas alas = 120 / 60 = 2 cm.\n\nJadi, tinggi balok kedua = 2 cm."
+      },
+      {
+        "content": "Volume balok = \\(6 \\times 5 \\times 4 = 120\\) cm³. Volume balok kedua = \\(10 \\times 6 \\times t\\). Jika sama, \\(10 \\times 6 \\times t = 120\\). Tapi ada kesalahan. Volume balok kedua = \\(60t\\). Jadi, \\(60t = 120\\). Tapi ini tidak mungkin. Ada kesalahan. Mungkin tinggi balok kedua = 2 cm. Tapi ini tidak sesuai. Ada kesalahan."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah limas segilima beraturan memiliki luas alas 75 cm² dan tinggi 12 cm. Berapa volume limas tersebut?",
+    "answers": [
+      {
+        "content": "Pertama, hitung luas permukaan sisi limas tersebut. Lalu, hitung ketinggian limas. Volume limas = \\frac{1}{3} \\times luas alas \\times ketinggian."
+      },
+      {
+        "content": "Volume limas segilima beraturan dihitung dengan rumus \\(V = \\frac{1}{3} \\times (\\text{luas alas}) \\times (\\text{tinggi})\\). Kita dapat menghitungnya dengan mengganti nilai yang diberikan."
+      },
+      {
+        "content": "Pertanyaan menarik! Untuk menemukan volume limas, kita butuh panjang teguk. Bagaimana cara menentukannya?"
+      },
+      {
+        "content": "Pertama, kita perlu mengetahui ketinggian limas (h) dan luas alas (A). Diketahui:\n- Luas alas (A) = 75 cm²\n- Tinggi limas (h) = 12 cm\n\nJika ini limas segilima, kita harus mengetahui tinggi dan keliling alasnya. Untuk menentukan volume, kita menggunakan rumus:\n\n\\[ V = \\frac{1}{3}A \\times h \\]\n\nTapi, kita butuh keliling alasnya. Untuk menentukan keliling alas, kita butuh jarak antara dua sudut (a) dan panjang alasnya (s). Untuk menentukan keliling alas, rumusnya:\n\n\\[ P = \\frac{1}{2} \\times a \\times s \\]\n\nTapi, kita tidak tahu keliling alas. Karena ini limas segilima, kita dapat menentukan keliling alas dengan rumus:\n\n\\[ P = 2 \\times a \\times \\sin(60^\\circ) \\]\n\nTapi, kita tidak tahu \\( a \\) dan \\( \\sin(60^\\circ) \\). Coba kamu hitung \\( \\sin(60^\\circ) \\)."
+      },
+      {
+        "content": "Volume limas segilima beraturan diberikan oleh rumus \\( V = \\frac{1}{3} \\times \\text{Luas Alas} \\times \\text{Tinggi} \\). Dengan demikian, volume limas yang kamu cari adalah:\n\n\\[ V = \\frac{1}{3} \\times 75 \\times 12 \\]\n\nCoba hitung hasilnya!"
+      },
+      {
+        "content": "Sebelumnya, kita harus menentukan sisi alas limas. Karena limas tersebut beraturan, sisi alasnya disebut s dan tingginya disebut t. Rumus volume limas segilima adalah:\n\n\\[ V = \\frac{1}{3} \\times \\text{Luas alas} \\times \\text{Tinggi} \\]\n\nKita sudah tahu luas alas (75 cm²) dan tinggi (12 cm). Tinggal kita substitusi ke rumusnya."
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk kubus diisi air hingga ⅔ bagian. Jika volume air dalam akuarium adalah 128 liter, berapa panjang rusuk akuarium tersebut?",
+    "answers": [
+      {
+        "content": "Oke, kita mulai. Pertama, hitung volume kubus yang diisi air. Volume kubus \\(V = s^3\\), di mana \\(s\\) adalah panjang rusuk. Jika 128 liter adalah ⅔ dari \\(V\\), berapa volume total kubus?"
+      },
+      {
+        "content": "Mari kita selesaikan satu per satu! Pertama, kita butuhkan rumus volume kubus, yaitu \\(V = a^3\\), di mana \\(V\\) adalah volume dan \\(a\\) adalah panjang rusuk. Kita diberikan bahwa \\(V = 128\\) liter dan \\(V = \\frac{2}{3} a^3\\). Mau mencoba menghitung \\(a\\) dari sini?"
+      },
+      {
+        "content": "Pertama, kita tentukan rumus volume kubus. Rumus volume kubus adalah \\(V = a^3\\), di mana \\(a\\) adalah panjang rusuk. \n\nJika volume air dalam akuarium adalah 128 liter dan diisi hingga ⅔ bagian, berarti volume total akuarium adalah \\(128 \\times \\frac{3}{2} = 192\\) liter.\n\nSehingga, \\(a^3 = 192\\)."
+      },
+      {
+        "content": "Mari kita analisis satu persatu. Pertama, kita butuh rumus untuk volume kubus. Rumusnya adalah \\(V = s^3\\), di mana \\(V\\) adalah volume dan \\(s\\) adalah panjang rusuk. Kita tahu volume airnya 128 liter, tetapi karena 128 liter itu dari 128/⅔ = 192 liter volume total akuarium, kita perlu rumus untuk volume total kubus. Rumusnya adalah \\(V_{\\text{total}} = s^3\\). Kita juga perlu rumus untuk volume air, yang adalah \\(V_{\\text{air}} = \\frac{2}{3}V_{\\text{total}}\\). Jadi, kita punya \\(V_{\\text{air}} = 128\\text{ L}\\) dan \\(V_{\\text{total}} = 192\\text{ L}\\)."
+      },
+      {
+        "content": "Pertanyaan bagus! Mari kita analisis. Jika 128 liter itu ⅔ dari volume akuarium, maka total volume kubus itu adalah 128 × 3/2 = 192 liter. Karena volume kubus = s³, maka s³ = 192. Mau mencoba mencari s?"
+      },
+      {
+        "content": "Mari kita analisis. Volume akuarium = panjang rusuk³. Karena 128 = (2/3) × panjang rusuk³, maka:\n\n\\[ \\frac{128}{\\frac{2}{3}} = \\frac{128 \\times 3}{2} = 192 = \\text{panjang rusuk}^3 \\]\n\nUntuk mencari \\( \\text{panjang rusuk} \\), kita ambil kubik akar dari 192:\n\n\\[ \\sqrt[3]{192} = \\sqrt[3]{12^3} = \\boxed{12} \\text{ cm} \\]\n\nJadi panjang rusuk akuarium = **12 cm**."
+      },
+      {
+        "content": "Mari kita selesaikan! Pertama, kita perlu mengetahui rumus volume kubus. Volume kubus dengan rusuk panjang \\(s\\) adalah \\(s^3\\). Karena 128 liter adalah \\(\\frac{2}{3}\\) dari volume keseluruhan, kita bisa menuliskan:\n\n\\[128 = \\frac{2}{3} \\times s^3\\]\n\nApa langkah selanjutnya yang kamu pikir?"
+      }
+    ]
+  },
+  {
+    "prompt": "Sebuah balok dipotong menjadi 8 kubus kecil yang identik. Jika volume balok awal adalah 1.000 cm³, berapa panjang rusuk setiap kubus kecil?",
+    "answers": [
+      {
+        "content": "Untuk menyelesaikan ini, kita perlu mengingat hubungan antara volume, panjang, lebar, dan tinggi. Volume balok adalah \\(P \\times L \\times T\\). Jika balok dipotong menjadi 8 kubus identik, volume balok adalah 8 kali volume kubus. Volume kubus = \\(s^3\\), di mana \\(s\\) adalah panjang rusuk kubus.\n\nMari kita tentukan volume balok terlebih dahulu. Jika volume balok awal adalah 1.000 cm³ dan dipotong menjadi 8 kubus, maka volume kubus setiap kubus adalah 1.000 ÷ 8 = 125 cm³.\n\nKarena \\(s^3 = 125\\), maka \\(s = \\sqrt[3]{125} = 5\\) cm. Jadi, panjang rusuk setiap kubus kecil adalah **5 cm**."
+      },
+      {
+        "content": "Pertanyaan menarik! Untuk menyelesaikannya, kita butuh informasi mengenai panjang, lebar, dan tinggi balok."
+      },
+      {
+        "content": "Mari kita analisis:\n\nVolume balok awal = 1.000 cm³\n\nVolume kubus = (sisi)³\n\nJika total 8 kubus, maka:\n1.000 = 8 × (sisi)³\n\nSisi kubus = \\sqrt[3]{\\frac{1.000}{8}} = \\sqrt[3]{125} = 5 cm\n\nJadi, panjang rusuk kubus kecil adalah **5 cm**."
+      },
+      {
+        "content": "Pertama, kita butuh menentukan ukuran balok awal. Karena balok terpotong menjadi 8 kubus kecil, maka setiap kubus memiliki volume \\(\\frac{1}{8}\\) dari balok. Jika volume balok awal adalah 1.000 cm³, berapa volume setiap kubus kecil?"
+      },
+      {
+        "content": "Mari kita analisis. Jika balok dibagi menjadi 8 kubus yang identik, maka volume balok adalah 8 kali volume setiap kubus. Jadi, volume kubus kecil adalah 1.000 ÷ 8 = 125 cm³.\n\nKarena kubus memiliki volume 125 cm³, maka panjang rusuknya bisa dicari dengan rumus volume: \\(v = a^3\\). Jadi, \\(a = \\sqrt[3]{125} = 5\\) cm."
+      },
+      {
+        "content": "Mari kita analisis:\n\n- Volume balok awal = 1.000 cm³\n- Jumlah kubus kecil = 8\n\nKarena kubus identik, volume setiap kubus kecil sama. Volume kubus = \\(s^3\\), di mana \\(s\\) adalah panjang rusuk.\n\nJika \\(V_{balok}\\) = 1.000 cm³, maka \\(V_{kubus}\\) = 1.000 ÷ 8 = 125 cm³.\n\nSekarang, coba kamu tentukan \\(s\\)."
+      }
+    ]
+  }
+]

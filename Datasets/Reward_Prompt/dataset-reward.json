@@ -1,0 +1,119 @@
+[
+  {
+    "prompt": "Sebuah kubus memiliki panjang rusuk 5 cm. Hitunglah volume kubus tersebut!"
+  },
+  {
+    "prompt": "Sebuah balok memiliki panjang 8 cm, lebar 6 cm, dan tinggi 4 cm. Berapa luas permukaan balok tersebut?"
+  },
+  {
+    "prompt": "Sebuah limas segiempat memiliki volume 240 cm³ dan luas alas 60 cm². Berapakah tinggi limas tersebut?"
+  },
+  {
+    "prompt": "Jika panjang rusuk sebuah kubus adalah 10 cm, hitunglah panjang diagonal ruang kubus tersebut!"
+  },
+  {
+    "prompt": "Sebuah ruangan berbentuk balok dengan panjang 5 m, lebar 4 m, dan tinggi 3 m akan dicat dindingnya (tanpa atap dan lantai). Jika biaya pengecatan Rp25.000 per m², berapa total biaya yang diperlukan?"
+  },
+  {
+    "prompt": "Dua balok memiliki perbandingan panjang, lebar, dan tinggi = 2:3:4. Jika volume balok pertama adalah 192 cm³, berapa volume balok kedua?"
+  },
+  {
+    "prompt": "Sebuah balok memiliki volume 600 cm³. Jika panjangnya 10 cm dan lebarnya 6 cm, berapa tinggi balok tersebut?"
+  },
+  {
+    "prompt": "Jika panjang rusuk sebuah kubus diperbesar menjadi 3 kali lipat, berapa kali lipat luas permukaannya bertambah?"
+  },
+  {
+    "prompt": "Sebuah kubus dengan rusuk 6 cm ditumpuk dengan limas segiempat yang memiliki alas sama dengan kubus dan tinggi 4 cm. Hitung volume gabungan kedua bangun tersebut!"
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk balok berukuran panjang 1 m, lebar 50 cm, dan tinggi 40 cm. Berapa liter air minimal yang dibutuhkan untuk mengisi akuarium hingga ¾ bagian?"
+  },
+  {
+    "prompt": "Sebuah balok memiliki panjang 12 cm, lebar 7 cm, dan tinggi 5 cm. Hitunglah volumenya!"
+  },
+  {
+    "prompt": "Jika luas permukaan kubus adalah 150 cm², berapa panjang rusuk kubus tersebut?"
+  },
+  {
+    "prompt": "Sebuah limas segitiga memiliki alas berbentuk segitiga siku-siku dengan panjang sisi 6 cm, 8 cm, dan 10 cm. Jika tinggi limas 12 cm, berapa volumenya?"
+  },
+  {
+    "prompt": "Hitung panjang diagonal bidang pada balok dengan panjang 9 cm, lebar 6 cm, dan tinggi 8 cm!"
+  },
+  {
+    "prompt": "Sebuah kolam renang berbentuk balok berukuran panjang 10 m, lebar 4 m, dan kedalaman 1,5 m. Berapa liter air yang dibutuhkan untuk mengisi kolam hingga penuh?"
+  },
+  {
+    "prompt": "Dua kubus memiliki perbandingan rusuk 2:5. Jika volume kubus kecil adalah 64 cm³, berapa volume kubus besar?"
+  },
+  {
+    "prompt": "Sebuah prisma segitiga memiliki alas segitiga sama sisi dengan panjang sisi 6 cm dan tinggi prisma 10 cm. Hitung luas permukaan prisma tersebut!"
+  },
+  {
+    "prompt": "Sebuah kotak kayu berbentuk kubus akan dicat seluruh permukaannya. Jika biaya pengecatan Rp15.000 per m² dan panjang rusuk kotak 2 m, berapa total biaya yang dibutuhkan?"
+  },
+  {
+    "prompt": "Sebuah limas segiempat memiliki volume 360 cm³. Jika panjang alasnya 9 cm dan lebarnya 8 cm, berapa tinggi limas tersebut?"
+  },
+  {
+    "prompt": "Hitung jumlah panjang seluruh rusuk sebuah balok dengan ukuran 15 cm × 10 cm × 7 cm!"
+  },
+  {
+    "prompt": "Sebuah kubus dengan rusuk 4 cm diperbesar sehingga volumenya menjadi 8 kali lipat. Berapa panjang rusuk kubus setelah diperbesar?"
+  },
+  {
+    "prompt": "Sebuah prisma trapesium memiliki alas trapesium dengan panjang sisi sejajar 5 cm dan 8 cm, serta tinggi trapesium 4 cm. Jika tinggi prisma 10 cm, berapa volumenya?"
+  },
+  {
+    "prompt": "Dua balok memiliki volume yang sama. Balok pertama berukuran 6 cm × 5 cm × 4 cm. Jika balok kedua memiliki panjang 10 cm dan lebar 6 cm, berapa tingginya?"
+  },
+  {
+    "prompt": "Sebuah limas segilima beraturan memiliki luas alas 75 cm² dan tinggi 12 cm. Berapa volume limas tersebut?"
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk kubus diisi air hingga ⅔ bagian. Jika volume air dalam akuarium adalah 128 liter, berapa panjang rusuk akuarium tersebut?"
+  },
+  {
+    "prompt": "Sebuah balok dipotong menjadi 8 kubus kecil yang identik. Jika volume balok awal adalah 1.000 cm³, berapa panjang rusuk setiap kubus kecil?"
+  },
+  {
+    "prompt": "Sebuah prisma segiempat memiliki alas persegi panjang dengan panjang 14 cm dan lebar 10 cm. Jika luas permukaan prisma adalah 1.240 cm², berapa tinggi prisma tersebut?"
+  },
+  {
+    "prompt": "Sebuah kotak berbentuk balok dapat menampung 120 buah kubus kecil berukuran rusuk 2 cm. Hitung volume kotak balok tersebut!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga memiliki luas permukaan 180 cm². Jika luas alasnya 45 cm², berapa luas seluruh sisi tegaknya?"
+  },
+  {
+    "prompt": "Sebuah tenda berbentuk prisma segitiga dengan panjang alas 3 m, tinggi alas 2 m, dan panjang tenda 4 m. Berapa luas kain minimal yang dibutuhkan untuk membuat tenda tersebut (tanpa alas)?"
+  },
+  {
+    "prompt": "Sebuah prisma segitiga sama sisi memiliki tinggi prisma 15 cm. Jika luas permukaannya 600 cm² dan panjang sisi alas 10 cm, berapa tinggi segitiga alasnya?"
+  },
+  {
+    "prompt": "Sebuah limas segiempat memiliki diagonal bidang alas 10√2 cm. Jika tinggi limas 12 cm, berapa volume limas tersebut?"
+  },
+  {
+    "prompt": "Sebuah balok dipotong secara diagonal menjadi dua prisma segitiga. Jika volume balok awal 720 cm³, berapa volume satu prisma segitiga hasil potongan?"
+  },
+  {
+    "prompt": "Sebuah kubus memiliki luas permukaan 486 cm². Jika rusuknya diperkecil ⅓ kali, berapa volume kubus setelah diperkecil?"
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk balok diisi air hingga 80% volumenya. Jika panjang, lebar, dan tinggi air berturut-turut 50 cm, 30 cm, dan 24 cm, berapa liter kapasitas total akuarium?"
+  },
+  {
+    "prompt": "Dua limas segiempat dengan alas sama digabungkan membentuk sebuah oktahedron. Jika volume satu limas 200 cm³ dan tinggi gabungan oktahedron 18 cm, berapa luas alasnya?"
+  },
+  {
+    "prompt": "Sebuah prisma trapesium siku-siku memiliki sisi sejajar 12 cm dan 8 cm, tinggi trapesium 5 cm, dan tinggi prisma 10 cm. Hitung luas seluruh sisi tegaknya!"
+  },
+  {
+    "prompt": "Sebuah kotak berbentuk kubus dapat menampung 27 bola kecil berjari-jari 2 cm. Berapa panjang rusuk minimal kotak tersebut (asumsi bola tidak ditumpuk)?"
+  },
+  {
+    "prompt": "Sebuah balok memiliki perbandingan panjang:lebar:tinggi = 3:2:4. Jika selisih panjang dan lebar 6 cm, berapa luas permukaan balok tersebut?"
+  }
+]

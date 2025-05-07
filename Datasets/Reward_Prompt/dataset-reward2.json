@@ -1,0 +1,149 @@
+[
+    {
+        "prompt": "Sebuah limas segitiga beraturan dengan panjang sisi alas 9 cm dan tinggi limas 10√3 cm. Hitung volume limas tersebut!"
+      },
+      {
+        "prompt": "Sebuah kolam renang berbentuk balok dengan kedalaman 2 m. Jika tekanan air di dasar kolam adalah 16.000 Pa (ρ_air = 1.000 kg/m³), berapa kedalaman kolam?"
+      },
+      {
+        "prompt": "Sebuah prisma segienam beraturan memiliki panjang sisi alas 4 cm dan tinggi prisma 12 cm. Hitung volume prisma tersebut! (√3 ≈ 1.732)"
+      },
+      {
+        "prompt": "Sebuah kubus kayu dipotong menjadi 64 kubus kecil identik. Jika total luas permukaan semua kubus kecil adalah 3.840 cm², berapa panjang rusuk kubus awal?"
+      },
+      {
+        "prompt": "Sebuah tenda berbentuk prisma segitiga dengan luas kain 56 m². Jika panjang alas prisma 7 m dan tinggi tenda 4 m, berapa lebar alas segitiga tenda tersebut?"
+      },
+      {
+        "prompt": "Sebuah balok memiliki luas permukaan 592 cm². Jika panjang dan lebarnya 12 cm dan 8 cm, berapa tinggi balok tersebut?"
+      },
+      {
+        "prompt": "Sebuah limas segiempat memiliki volume 384 cm³. Jika panjang alas diperbesar 2 kali dan tingginya diubah menjadi ¾ kali semula, berapa volume limas baru?"
+      },
+      {
+        "prompt": "Sebuah akuarium berbentuk kubus diisi air dengan debit 2 liter/menit. Jika setelah 45 menit akuarium terisi ¾ bagian, berapa panjang rusuk akuarium?"
+      },
+      {
+        "prompt": "Sebuah prisma belah ketupat dengan diagonal alas 24 cm dan 10 cm. Jika tinggi prisma 15 cm, hitung luas permukaan prisma tersebut!"
+      },
+      {
+        "prompt": "Sebuah balok memiliki volume 1.800 cm³. Jika rasio panjang:lebar:tinggi = 5:3:2, berapa panjang diagonal ruang balok tersebut?"
+      },
+      {
+        "prompt": "Sebuah limas segitiga memiliki luas alas 48 cm². Jika luas salah satu sisi tegaknya 30 cm² dan tinggi limas 10 cm, berapa keliling alas limas?"
+      },
+      {
+        "prompt": "Sebuah segitiga memiliki panjang sisi 3 cm dan 4 cm. Hitunglah panjang sisi miringnya!"
+      },
+      {
+        "prompt": "Tentukan apakah segitiga dengan sisi 5 cm, 12 cm, dan 13 cm adalah segitiga siku-siku!"
+      },
+      {
+        "prompt": "Diketahui sisi miring segitiga adalah 10 cm dan salah satu sisi tegaknya 6 cm. Hitung panjang sisi lainnya!"
+      },
+      {
+        "prompt": "Sebuah tangga sepanjang 5 meter disandarkan ke dinding, jarak kaki tangga ke dinding adalah 3 meter. Berapa tinggi dinding yang dicapai tangga?"
+      },
+      {
+        "prompt": "Panjang diagonal sebuah persegi panjang adalah 15 cm. Jika panjang salah satu sisinya 9 cm, berapa panjang sisi lainnya?"
+      },
+      {
+        "prompt": "Sebuah layang-layang memiliki diagonal 8 cm dan 15 cm. Hitung panjang sisi layang-layang tersebut!"
+      },
+      {
+        "prompt": "Jika panjang sisi alas segitiga adalah 7 cm dan tinggi 24 cm, berapa panjang sisi miring segitiga?"
+      },
+      {
+        "prompt": "Tentukan panjang sisi miring dari segitiga siku-siku dengan sisi-sisi 9 cm dan 12 cm!"
+      },
+      {
+        "prompt": "Diketahui sebuah papan berbentuk persegi panjang memiliki panjang 6 meter dan lebar 8 meter. Berapa panjang diagonal papan tersebut?"
+      },
+      {
+        "prompt": "Sebuah kapal berlayar 6 km ke timur lalu 8 km ke utara. Berapa jarak kapal dari titik awal?"
+      },
+      {
+        "prompt": "Apakah segitiga dengan panjang sisi 7 cm, 24 cm, dan 25 cm membentuk segitiga siku-siku?"
+      },
+      {
+        "prompt": "Seorang anak berdiri sejauh 5 meter dari tiang. Jika panjang bayangan anak 12 meter, berapakah tinggi tiang tersebut?"
+      },
+      {
+        "prompt": "Sebuah kotak kayu memiliki alas berbentuk persegi panjang dengan panjang 9 cm dan lebar 12 cm. Hitunglah panjang diagonal alasnya!"
+      },
+      {
+        "prompt": "Diketahui sisi miring segitiga adalah 17 cm dan salah satu sisi lainnya 8 cm. Hitung sisi ketiga!"
+      },
+      {
+        "prompt": "Di sebuah taman, jarak dua titik adalah 10 meter dan 24 meter dari patung pusat. Jika kedua titik dihubungkan langsung, berapa jarak antar titik?"
+      },
+      {
+        "prompt": "Pada segitiga ABC, diketahui AB = 15 cm, BC = 20 cm, dan AC = 25 cm. Tentukan apakah segitiga ABC siku-siku!"
+      },
+      {
+        "prompt": "Sebuah tiang berdiri tegak dan tali panjang 13 meter diikat dari puncak tiang ke tanah. Jika jarak ikatan di tanah 12 meter dari dasar tiang, berapa tinggi tiang tersebut?"
+      },
+      {
+        "prompt": "Panjang dua sisi segitiga siku-siku berturut-turut adalah 5 cm dan 12 cm. Hitunglah panjang sisi miringnya!"
+      },
+      {
+        "prompt": "Hitunglah jarak langsung antara dua titik di peta jika jarak horizontalnya 9 km dan jarak vertikalnya 12 km."
+      },
+      {
+        "prompt": "Sebuah drone terbang 6 meter ke atas dan 8 meter ke samping. Hitunglah jarak drone dari titik awal penerbangan!"
+      },
+      {
+        "prompt": "Dua buah segitiga siku-siku sebangun memiliki sisi miring berturut-turut 10 cm dan 15 cm. Jika salah satu sisi pendek pada segitiga pertama 6 cm, berapakah panjang sisi yang bersesuaian pada segitiga kedua?"
+      },
+      {
+        "prompt": "Sebuah lapangan berbentuk persegi panjang memiliki panjang 30 meter dan lebar 40 meter. Hitung jarak terpendek antara dua sudut berseberangan!"
+      },
+      {
+        "prompt": "Sebuah tangga setinggi 8 meter disandarkan pada dinding membentuk sudut siku-siku dengan tanah. Jika jarak kaki tangga ke dinding adalah 6 meter, berapa panjang tangga tersebut?"
+      },
+      {
+        "prompt": "Sebuah layar kapal berbentuk segitiga siku-siku memiliki alas 9 meter dan tinggi 12 meter. Berapakah panjang sisi miring layar tersebut?"
+      },
+      {
+        "prompt": "Seorang pendaki naik 3 km ke arah utara lalu 4 km ke arah timur. Berapa jarak lurusnya dari titik awal?"
+      },
+      {
+        "prompt": "Sebuah perahu berlayar ke utara sejauh 7 km lalu ke timur sejauh 24 km. Berapakah jarak langsung perahu dari titik awal?"
+      },
+      {
+        "prompt": "Diagonal sebuah persegi panjang adalah 17 cm dan salah satu sisinya 8 cm. Hitung panjang sisi lainnya!"
+      },
+      {
+        "prompt": "Diketahui segitiga PQR dengan PQ = 8 cm, QR = 15 cm, dan PR = 17 cm. Tentukan apakah PQR segitiga siku-siku!"
+      },
+      {
+        "prompt": "Sebuah tiang memiliki bayangan sepanjang 15 meter saat matahari bersinar. Jika jarak dari ujung bayangan ke puncak tiang adalah 17 meter, berapakah tinggi tiang tersebut?"
+      },
+      {
+        "prompt": "Dua buah kota terletak 12 km ke timur dan 16 km ke utara dari suatu titik. Hitung jarak antar kedua kota tersebut!"
+      },
+      {
+        "prompt": "Sebuah taman berbentuk persegi memiliki panjang sisi 14 meter. Hitunglah panjang diagonal taman tersebut!"
+      },
+      {
+        "prompt": "Sebuah mobil bergerak 5 km ke barat dan kemudian 12 km ke utara. Hitung jarak lurus mobil dari titik awal."
+      },
+      {
+        "prompt": "Diketahui sisi alas balok 6 cm dan tinggi balok 8 cm. Hitunglah panjang diagonal bidang alas balok tersebut!"
+      },
+      {
+        "prompt": "Sebuah papan berbentuk segitiga siku-siku memiliki sisi 7 cm dan 24 cm. Hitunglah panjang sisi miring papan!"
+      },
+      {
+        "prompt": "Sebuah drone terbang 5 meter ke atas, lalu 12 meter ke samping. Hitunglah jarak drone dari titik awal!"
+      },
+      {
+        "prompt": "Dalam sebuah segitiga ABC, diketahui AB = 9 cm, BC = 12 cm, dan AC = 15 cm. Apakah ini segitiga siku-siku?"
+      },
+      {
+        "prompt": "Jika panjang diagonal persegi panjang adalah 20 cm dan salah satu sisinya 12 cm, tentukan panjang sisi lainnya."
+      },
+      {
+        "prompt": "Tentukan panjang sisi miring segitiga jika kedua sisi tegaknya masing-masing 11 cm dan 60 cm!"
+      }
+]
