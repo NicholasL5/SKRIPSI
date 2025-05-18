@@ -1,73 +1,49 @@
-from flask import Flask, render_template, request, jsonify
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from huggingface_hub import login
-import torch
-import os
-from dotenv import load_dotenv
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.orm import DeclarativeBase
-
-load_dotenv()
-
-hf_token = os.environ.get("HF_TOKEN")
-if hf_token:
-    login(hf_token)
-else:
-    print("Warning: HF_TOKEN not found in environment variables. Authentication might fail.")
-
-# Load model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained("openai-community/gpt2")
-model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2")
+from flask import Flask, render_template, request, jsonify, session
+import requests, os, json
 
 app = Flask(__name__)
 
-session_histories = {}
+ENDPOINT = os.getenv("MODEL_API")
+HF_TOKEN = os.getenv("HF_TOKEN")
+headers  = {"Authorization": f"Bearer {HF_TOKEN}"}
+app.secret_key = os.getenv("FLASK_SECRET_KEY", "dev-only-fallback")
+
 
 @app.route("/")
 def index():
-    return render_template('chat.html')
+    return render_template("chat.html")
 
-@app.route("/get", methods=["GET", "POST"])
+@app.route("/get", methods=["POST"])
 def chat():
-    if request.method == "POST":
-        msg = request.form["msg"]
-        session_id = request.cookies.get('session_id', 'default')
-        response = get_chat_response(msg, session_id)
-        return response
-    return "Method not allowed", 405
+    msg = request.form["msg"]
 
-def get_chat_response(text, session_id='default'):
-    chat_history_ids = session_histories.get(session_id, None)
-    
-    new_user_input_ids = tokenizer.encode(
-        str(text) + tokenizer.eos_token, 
-        return_tensors='pt'
-    )
-    
-    if chat_history_ids is not None:
-        bot_input_ids = torch.cat([chat_history_ids, new_user_input_ids], dim=-1)
-    else:
-        bot_input_ids = new_user_input_ids
-    
-    # Generate response
-    with torch.no_grad():
-        chat_history_ids = model.generate(
-            bot_input_ids, 
-            max_length=bot_input_ids.shape[-1] + 100,
-            pad_token_id=tokenizer.eos_token_id,
-            do_sample=True,
-            temperature=0.5,
-            top_p=0.9
-        )
-    
-    session_histories[session_id] = chat_history_ids
-    
-    response = tokenizer.decode(
-        chat_history_ids[:, bot_input_ids.shape[-1]:][0], 
-        skip_special_tokens=True
-    )
-    
-    return response
+    history = session.get("history", [])
+    history.append({"role": "user", "content": msg})
 
-if __name__ == '__main__':
+    payload = {
+        "inputs": history,
+        "parameters": {"return_full_text": False}
+    }
+    r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=120)
+    answer = r.json()[0]["generated_text"]
+
+    history.append({"role": "assistant", "content": answer})
+    session["history"] = history
+    print('ok')
+    print(session['history'])
+    return answer
+
+@app.route("/delete-history", methods=["DELETE"])
+def clear_history():
+    session.pop("history", None)             
+    return "cleared", 200
+
+@app.route("/regenerate", methods=["DELETE"])
+def pop_last_conversation():
+    session['history'].pop()
+    session['history'].pop()
+    return "regenerated", 200
+
+if __name__ == "__main__":
+
     app.run(debug=True)
