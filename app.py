@@ -1,5 +1,9 @@
 from flask import Flask, render_template, request, jsonify, session
 import requests, os, json
+from Helpers.convert import clean_latex
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 
@@ -24,14 +28,23 @@ def chat():
         "inputs": history,
         "parameters": {"return_full_text": False}
     }
-    r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=120)
+    try:
+        r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=120)
+        r.raise_for_status()
+    except requests.exceptions.HTTPError as http_err:
+        status = http_err.response.status_code
+        if status == 500:
+            print("Caught HTTP 500! Implement retry or fallback here.")
+        else:
+            print(f"HTTP error {status}: {http_err}")
+    except requests.exceptions.RequestException as err:
+        print(f"Request failed: {err}")
+
     answer = r.json()[0]["generated_text"]
 
     history.append({"role": "assistant", "content": answer})
     session["history"] = history
-    print('ok')
-    print(session['history'])
-    return answer
+    return clean_latex(answer)
 
 @app.route("/delete-history", methods=["DELETE"])
 def clear_history():
