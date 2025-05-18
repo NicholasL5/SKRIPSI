@@ -32,7 +32,7 @@
             <div class="card-header">
               <div class="d-flex align-items-center">
                 <div class="avatar-container">
-                  <img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="avatar" alt="Bot Avatar">
+                  <img src="{{ url_for('static', filename='Logo/math_icon.jpg') }}" class="avatar" alt="Avatar">
                   <span class="status-indicator"></span>
                 </div>
                 <div class="assistant-info">
@@ -51,7 +51,7 @@
               <!-- Welcome message -->
               <div class="message assistant-message" data-message-id="welcome">
                 <div class="message-avatar">
-                  <img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" alt="Bot Avatar">
+                  <img src="{{ url_for('static', filename='Logo/math_icon.jpg') }}" alt="Avatar">
                 </div>
                 <div class="message-content">
                   <div class="message-actions">
@@ -143,6 +143,16 @@
       
       $(document).ready(function () {
         scrollToBottom();
+        $.ajax({
+          data: {},
+          type: "DELETE",
+          url: "/delete-history",
+          beforeSend: function() {
+            disableTextAndSend();
+          }
+        }).done(function (data) {
+          enableTextAndSend();
+        });
       
         // Clear chat functionality
         $("#clearChat").click(function() {
@@ -150,7 +160,7 @@
           var welcomeMsg = 
             '<div class="message assistant-message" data-message-id="welcome">' +
             '<div class="message-avatar">' +
-            '<img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" alt="Bot Avatar">' +
+            '<img src="{{ url_for("static", filename="Logo/math_icon.jpg") }}" alt="Avatar">' +
             '</div><div class="message-content">' +
             '<div class="message-actions">' +
             '<button class="message-action-btn regenerate-msg" title="Regenerate response">' +
@@ -171,7 +181,7 @@
               disableTextAndSend();
             }
           }).done(function (data) {
-            console.log('deleted history');
+            alert('History berhasil dihapus!');
             enableTextAndSend();
           });
         });
@@ -221,7 +231,6 @@
             '<div class="message-time">' + str_time + '</div>' +
             '</div>' +
             '<div class="message-avatar">' +
-            '<img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" alt="User Avatar">' +
             '</div></div>';
 
           $("#text").val("");
@@ -246,7 +255,7 @@
           var typingHtml = 
             '<div class="message assistant-message" id="typing-indicator">' +
             '<div class="message-avatar">' +
-            '<img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" alt="Bot Avatar">' +
+            '<img src="{{ url_for("static", filename="Logo/math_icon.jpg") }}" alt="Avatar">' +
             '</div><div class="message-content">' +
             '<div class="message-bubble typing"><span class="dots"></span></div>' +
             '<div class="message-time">' + str_time + '</div></div></div>';
@@ -259,11 +268,12 @@
             const oldResponseId = messageHistory[userMessageId].responseId;
             $(`[data-message-id="${oldResponseId}"]`).remove();
 
-            // call ajax for updating session history
             $.ajax({
               data: {},
               type: "DELETE",
               url: "/regenerate",
+              accepts: "application/json",
+              contentType: "application/json",
               xhrFields: { withCredentials: true },
               beforeSend: function() {
                 disableTextAndSend();
@@ -287,10 +297,8 @@
           }).done(function (data) {
             $("#typing-indicator").remove();
             
-            // Parse markdown and apply syntax highlighting
-            const parsedResponse = parseAndHighlight(data);
+            const parsedResponse = parseAndHighlight(data.data.reply);
             
-            // Store the original text in history
             messageHistory[botMessageId] = {
               type: 'bot',
               text: data,
@@ -298,7 +306,6 @@
               userMessageId: userMessageId
             };
             
-            // Link the user message to this response
             if (messageHistory[userMessageId]) {
               messageHistory[userMessageId].responseId = botMessageId;
             }
@@ -306,7 +313,7 @@
             var botHtml =
               '<div class="message assistant-message" data-message-id="' + botMessageId + '">' +
               '<div class="message-avatar">' +
-              '<img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" alt="Bot Avatar">' +
+              '<img src="{{ url_for("static", filename="Logo/math_icon.jpg") }}" alt="Avatar">' +
               '</div><div class="message-content">' +
               '<div class="message-actions">' +
               '<button class="message-action-btn regenerate-msg" title="Regenerate response">' +
@@ -331,7 +338,7 @@
             var errorHtml =
               '<div class="message assistant-message" data-message-id="' + botMessageId + '">' +
               '<div class="message-avatar">' +
-              '<img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" alt="Bot Avatar">' +
+              '<img src="{{ url_for("static", filename="Logo/math_icon.jpg") }}" alt="Avatar">' +
               '</div><div class="message-content">' +
               '<div class="message-actions">' +
               '<button class="message-action-btn regenerate-msg" title="Regenerate response">' +

@@ -2808,7 +2808,7 @@
     "data": [
       {
           "role": "user",
-          "content": "Halo ChatGPT, aku punya soal ini:\n\n“Suatu pabrik membuat biskuit yang berbentuk lingkaran padat dengan diameter 5 cm. Sebagai variasi, pabrik tersebut juga ingin membuat biskuit dengan ketebalan sama namun berbentuk juring lingkaran dengan sudut pusat 90°. Tentukan diameter biskuit tersebut agar bahan produksinya sama dengan biskuit yang berbentuk lingkaran.”\n\nAku agak bingung harus mulai dari mana."
+          "content": "Halo, aku punya soal ini:\n\n“Suatu pabrik membuat biskuit yang berbentuk lingkaran padat dengan diameter 5 cm. Sebagai variasi, pabrik tersebut juga ingin membuat biskuit dengan ketebalan sama namun berbentuk juring lingkaran dengan sudut pusat 90°. Tentukan diameter biskuit tersebut agar bahan produksinya sama dengan biskuit yang berbentuk lingkaran.”\n\nAku agak bingung harus mulai dari mana."
       },
       {
           "role": "assistant",
