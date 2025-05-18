@@ -2,7 +2,7 @@
 
 **A math chatbot fine-tuned with proactive conversation** designed for 8th graders with limited knowledge. Model replacement in progress (WIP).
 
-> **Note:** As you can see, generated-responses.json is not same as final_reward_dataset.json, it is caused by missing file while development. But the dataset used for training is final_reward_dataset.json. So the generated-response.json doesn't matter much. You can generate it using notebook no 3 and the to generate final_reward_dataset you need to run Helpers/rewardDatasetMaker.py
+> **Note:** As you can see, generated-responses.json is not same as final_reward_dataset.json, it is caused by missing file while development. But the dataset used for training is final_reward_dataset.json. So the generated-response.json doesn't matter much. You can generate it using notebook no 3 to generate final_reward_dataset you need to run Helpers/rewardDatasetMaker.py
 
 ---
 
