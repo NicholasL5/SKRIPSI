@@ -11,7 +11,7 @@ app.secret_key = os.getenv("FLASK_SECRET_KEY", "dev-only-fallback")
 
 @app.route("/")
 def index():
-    return render_template("chat.html")
+    return render_template("index.html")
 
 @app.route("/get", methods=["POST"])
 def chat():
