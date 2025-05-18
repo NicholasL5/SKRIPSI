@@ -4,5 +4,3 @@ gunicorn
 requests
 python-dotenv
 docx
-itertools
-argparse

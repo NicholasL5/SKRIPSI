@@ -28,17 +28,12 @@ def chat():
         "inputs": history,
         "parameters": {"return_full_text": False}
     }
+
     try:
         r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=120)
         r.raise_for_status()
-    except requests.exceptions.HTTPError as http_err:
-        status = http_err.response.status_code
-        if status == 500:
-            print("Caught HTTP 500! Implement retry or fallback here.")
-        else:
-            print(f"HTTP error {status}: {http_err}")
-    except requests.exceptions.RequestException as err:
-        print(f"Request failed: {err}")
+    except Exception as e:
+        print(f"Request failed: {e}")
 
     answer = r.json()[0]["generated_text"]
 
