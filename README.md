@@ -71,12 +71,12 @@ For interactive viewing, open the following Colab links:
    [https://colab.research.google.com/drive/1SolotV01IDfDoVXWpBH\_XSbGbPtSDVgM?usp=sharing](https://colab.research.google.com/drive/1SolotV01IDfDoVXWpBH_XSbGbPtSDVgM?usp=sharing)
 
 5.**PPO Training**
-      > **Note:** Several notebooks are used for ppo training since TRL 16 has an error in PPO .step method, the solution is to downgrade the TRL library to 0.11.0, that suits well with this project. Different notebook indicates different apporach in hyperparameter tuning, dataset, and base trained model.
-      [https://colab.research.google.com/drive/16L-Y3Ep5nElfvNP0yQyGkLdXcVrxC2xB?usp=sharing](https://colab.research.google.com/drive/16L-Y3Ep5nElfvNP0yQyGkLdXcVrxC2xB?usp=sharing)
-      [https://colab.research.google.com/drive/1vZs2TMpw2VGdQNUJEw4hr-e8CQoSlOz5?usp=sharing](https://colab.research.google.com/drive/1vZs2TMpw2VGdQNUJEw4hr-e8CQoSlOz5?usp=sharing)
-   
+   > **Note:** Several notebooks are used for ppo training since TRL 16 has an error in PPO .step method, the solution is to downgrade the TRL library to 0.11.0, that suits well with this project. Different notebook indicates different apporach in hyperparameter tuning, dataset, and base trained model.
+   [https://colab.research.google.com/drive/16L-Y3Ep5nElfvNP0yQyGkLdXcVrxC2xB?usp=sharing](https://colab.research.google.com/drive/16L-Y3Ep5nElfvNP0yQyGkLdXcVrxC2xB?usp=sharing)
+   [https://colab.research.google.com/drive/1vZs2TMpw2VGdQNUJEw4hr-e8CQoSlOz5?usp=sharing](https://colab.research.google.com/drive/1vZs2TMpw2VGdQNUJEw4hr-e8CQoSlOz5?usp=sharing)
+
 6.**Evaluation Script**
-      [https://colab.research.google.com/drive/1NxqJjuIelzzoqtlDNxvvhOAU_yDiCxWQ](https://colab.research.google.com/drive/1NxqJjuIelzzoqtlDNxvvhOAU_yDiCxWQ?usp=sharing)
-   
+   [https://colab.research.google.com/drive/1NxqJjuIelzzoqtlDNxvvhOAU_yDiCxWQ](https://colab.research.google.com/drive/1NxqJjuIelzzoqtlDNxvvhOAU_yDiCxWQ?usp=sharing)
+
 7.**Deployment Script**
-      [https://colab.research.google.com/drive/1mDuDIV6byBbOwv7BquD6Yjrm6UEXlBsD?usp=sharing](https://colab.research.google.com/drive/1mDuDIV6byBbOwv7BquD6Yjrm6UEXlBsD?usp=sharing)
+   [https://colab.research.google.com/drive/1mDuDIV6byBbOwv7BquD6Yjrm6UEXlBsD?usp=sharing](https://colab.research.google.com/drive/1mDuDIV6byBbOwv7BquD6Yjrm6UEXlBsD?usp=sharing)
