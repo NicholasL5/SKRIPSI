@@ -44,6 +44,7 @@ def clean_latex(text):
         (r'\\overset{\\frown}\{([^}]+)\}', r'⌢\1'),
         (r'\s*\^3', '³'),
         (r'\s*\^2', '²'),
+        (r'\\[bB]oxed\{([^}]+)\}', r'\1'),
     ]
     
     for pattern, replacement in regex_replacements:

@@ -1,0 +1,335 @@
+[
+  {
+    "prompt": "Sebuah lingkaran memiliki jari-jari 7 cm. Hitung luas lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Lingkaran dengan diameter 20 cm. Hitung keliling lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui keliling lingkaran 31,4 cm. Hitung jari-jari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah busur pada lingkaran mempunyai panjang 15,7 cm dan sudut pusat 90°. Hitung jari-jari lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Hitung panjang busur untuk sudut pusat 60° pada lingkaran dengan jari-jari 10 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah juring lingkaran memiliki sudut pusat 45° dan jari-jari 14 cm. Hitung luas juring tersebut! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui luas juring suatu lingkaran 154 cm² dengan sudut pusat 140°. Hitung jari-jari lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Hitung luas lingkaran dengan diameter 12 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki keliling 88 cm. Hitung diameter lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Hitung luas juring lingkaran dengan sudut pusat 180° dan jari-jari 5 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui panjang busur 10,5 cm pada lingkaran dengan sudut pusat 30°. Hitung keliling lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran dengan jari-jari 9 cm, hitung luas dan kelilingnya! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui diameter lingkaran 16 cm. Hitung luas juring dengan sudut pusat 120°! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran berdiameter 14 cm. Hitung panjang busur untuk sudut pusat 45°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Lingkaran dengan jari-jari 3,5 cm memiliki keliling sekitar 21,99 cm. Verifikasi dengan π = 3,14!"
+  },
+  {
+    "prompt": "Diketahui sudut pusat juring 270° dan jari-jari 7 cm. Hitung panjang busur dan luas juring! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Jelaskan apa itu juring lingkaran dan bagaimana cara menghitung luasnya!"
+  },
+  {
+    "prompt": "Apa yang dimaksud dengan busur lingkaran dan apa perbedaannya dengan juring?"
+  },
+  {
+    "prompt": "Definisikan diameter dan jari-jari lingkaran serta jelaskan hubungannya!"
+  },
+  {
+    "prompt": "Jelaskan peran π (pi) dalam menghitung luas dan keliling lingkaran!"
+  },
+  {
+    "prompt": "Sebuah lingkaran berjari-jari 14 cm. Hitung keliling lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Lingkaran dengan diameter 18 cm. Hitung luas lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui keliling lingkaran 62,8 cm. Hitung jari-jari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki luas 154 cm². Hitung diameter lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Hitung panjang busur untuk sudut pusat 135° pada lingkaran berjari-jari 8 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui panjang busur 11 cm pada sudut pusat 55° lingkaran. Hitung jari-jari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah juring lingkaran dengan sudut pusat 60° dan jari-jari 10 cm. Hitung luas juring! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Luas juring sebuah lingkaran 25π cm² dengan sudut pusat 90°. Hitung jari-jari lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah juring lingkaran 120° memiliki apotema 8 cm. Hitung jari-jari lingkaran!"
+  },
+  {
+    "prompt": "Hitung apotema juring lingkaran dengan jari-jari 12 cm dan sudut pusat 45°!"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki jari-jari 9 cm. Hitung luas dan keliling lingkaran tersebut! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui diameter lingkaran 16 cm. Hitung panjang busur untuk sudut pusat 75°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah lingkaran berluas 78,5 cm². Jika π = 3,14, berapa nilai jari-jari lingkaran?"
+  },
+  {
+    "prompt": "Dua lingkaran, satu berjari-jari 7 cm dan satu berjari-jari 14 cm. Hitung perbandingan luas keduanya!"
+  },
+  {
+    "prompt": "Sebuah lingkaran berdiameter 10 cm. Hitung panjang busur untuk sudut pusat 30° dan 60°! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui keliling lingkaran 44 cm. Hitung diameter dan luas lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Jelaskan apa perbedaan antara juring dan segmen lingkaran!"
+  },
+  {
+    "prompt": "Definisikan busur lingkaran dan berikan contohnya dalam kehidupan sehari-hari!"
+  },
+  {
+    "prompt": "Apa hubungan antara diameter, jari-jari, dan keliling lingkaran?"
+  },
+  {
+    "prompt": "Jelaskan mengapa luas lingkaran menggunakan rumus πr²!"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki jari-jari 10 cm. Sebuah juring dengan sudut pusat 72°. Hitung luas juring dan panjang busurnya! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Pada sebuah lingkaran berjari-jari 14 cm terbentuk segmen oleh tali busur sepanjang 16 cm. Hitung tinggi segmen (apotema juring) dan luas segmen tersebut! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui luas area antara dua lingkaran konsentris adalah 254 cm². Jika jari-jari luar 9 cm, hitung jari-jari dalam! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah roda berdiameter 80 cm berputar satu putaran penuh menempuh jarak keliling. Jika roda berputar 120 kali, berapa meter jarak yang ditempuh?"
+  },
+  {
+    "prompt": "Hitung panjang busur pada lingkaran untuk sudut pusat 225° pada lingkaran berjari-jari 12 cm! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui keliling lingkaran 157,08 cm. Hitung luas lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah piringan kayu berbentuk lingkaran berdiameter 30 cm. Bagian tengahnya diambil juring 45° untuk dijadikan pegangan. Hitung luas piringan setelah juring tersebut dihilangkan! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui panjang busur 5π cm pada sudut pusat 60°. Hitung jari-jari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung apotema juring lingkaran dengan jari-jari 15 cm dan sudut pusat 120°!"
+  },
+  {
+    "prompt": "Sebuah taman berbentuk lingkaran diameter 20 m. Dibuat jalur setengah lingkaran di tepi luar selebar 2 m. Hitung luas jalur tersebut! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Dalam sebuah roda gigi kecil, pangkal gigi berbentuk busur sudut 30° pada lingkaran berjari-jari 5 cm. Hitung panjang busurnya! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Dua lingkaran kongruen berjari-jari 7 cm bersinggungan luar. Hitung luas daerah yang termasuk di salah satu lingkaran tetapi tidak pada irisan keduanya! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Jelaskan langkah-langkah menghitung luas segmen lingkaran (area di bawah busur)!"
+  },
+  {
+    "prompt": "Bagaimana cara menentukan sudut pusat juring jika diberikan rasio luas juring terhadap luas lingkaran?"
+  },
+  {
+    "prompt": "Hitung jari-jari lingkaran jika luas juring untuk sudut pusat 45° adalah 50 cm²! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui jari-jari lingkaran 5 cm, hitung luas lingkaran dan panjang busur untuk sudut pusat 300°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah roda kincir air memiliki keliling 200 cm. Hitung diameter roda tersebut! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui diameter lingkaran 18 cm. Tentukan diameter lingkaran lain sehingga luasnya menjadi dua kali lipat!"
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara busur lingkaran, juring, dan segmen lingkaran!"
+  },
+  {
+    "prompt": "Sebuah roda yang berjari-jari 25 cm, jika diputar sejauh 100 m, berapa putaran yang terjadi? (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Pada lingkaran berjari-jari 10 cm, hitung panjang busur mayor dan busur minor untuk sudut pusat 60°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Dua juring dengan sudut pusat masing-masing 60° dan 120° pada lingkaran berjari-jari 9 cm. Hitung perbandingan luasnya! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung luas gelang (annulus) yang dibatasi oleh lingkaran berjari-jari 10 cm dan 6 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Jika luas lingkaran 154 cm², hitung jari-jari dan kelilingnya! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah koin berbentuk lingkaran dengan diameter 2,5 cm. Berapakah luas satu koin? Jika 100 koin disusun, berapa total luasnya? (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui busur lingkaran 31,4 cm pada sudut pusat 180°. Hitung jari-jari! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung sudut pusat juring jika luas juring diketahui 20 cm² pada lingkaran berjari-jari 10 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Dua lingkaran dengan luas 64π cm² dan 100π cm². Hitung perbandingan keliling kedua lingkaran!"
+  },
+  {
+    "prompt": "Sebuah roda studi perputaran memiliki diameter 16 cm. Jika ia berputar 50 kali, berapa panjang total busur yang dilalui pinggirnya? (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Jelaskan mengapa keliling lingkaran berbanding lurus dengan jari-jari, sedangkan luas berbanding lurus kuadrat jari-jari!"
+  },
+  {
+    "prompt": "Sebuah lingkaran berjari-jari 10 cm. Hitung luas lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran berdiameter 20 cm. Hitung keliling lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui keliling lingkaran 62,8 cm. Hitung jari-jari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki luas 154 cm². Hitung diameter lingkaran! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Hitung panjang busur untuk sudut pusat 72° pada lingkaran berjari-jari 10 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung luas juring untuk sudut pusat 45° pada lingkaran berjari-jari 12 cm! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Jika luas juring lingkaran berjari-jari 10 cm adalah 25π cm², tentukan sudut pusat juring tersebut!"
+  },
+  {
+    "prompt": "Jika panjang busur lingkaran berjari-jari 9 cm adalah 6π cm, tentukan sudut pusat busur tersebut!"
+  },
+  {
+    "prompt": "Hitung panjang tali busur (chord) untuk sudut pusat 60° pada lingkaran berjari-jari 10 cm!"
+  },
+  {
+    "prompt": "Sebuah tali busur pada lingkaran berjari-jari 13 cm memiliki panjang 10 cm. Hitung kedalaman juring (apotema juring)!"
+  },
+  {
+    "prompt": "Hitung luas gelang (annulus) untuk dua lingkaran konsentris dengan jari-jari 15 cm dan 10 cm!"
+  },
+  {
+    "prompt": "Jika luas gelang antara dua lingkaran konsentris adalah 75π cm² dan jari-jari lingkaran luar 10 cm, tentukan jari-jari lingkaran dalam!"
+  },
+  {
+    "prompt": "Hitung luas segmen lingkaran yang terbentuk oleh busur 120° pada lingkaran berjari-jari 8 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung luas setengah lingkaran dengan diameter 20 cm! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah bujur sangkar dengan panjang sisi 14 cm memiliki lingkaran dalam (inscribed). Hitung luas daerah di dalam bujur sangkar yang bukan bagian dari lingkaran! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah bujur sangkar dengan panjang sisi 10 cm dibatasi oleh lingkaran yang menyinggung keempat sudutnya. Hitung luas lingkaran tersebut! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah piringan bundar berjari-jari 6 cm, potongan juring 90° dan 45° dihilangkan. Hitung luas piringan yang tersisa! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Jika sudut pusat sebuah juring adalah 140°, berapakah besar sudut keliling yang menghadap busur yang sama?"
+  },
+  {
+    "prompt": "Sebuah titik P berada di luar lingkaran berjari-jari 5 cm, jarak OP = 13 cm. Hitung panjang garis singgung dari P ke lingkaran!"
+  },
+  {
+    "prompt": "Jika panjang busur untuk sudut pusat 30° adalah 5π cm, hitung panjang busur untuk sudut pusat 150° pada lingkaran yang sama!"
+  },
+  {
+    "prompt": "Sebuah lingkaran memiliki luas 314 cm². Hitung panjang busur untuk sudut pusat 30°! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung jari-jari lingkaran jika panjang busur untuk sudut pusat 45° adalah 7,5 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Dua busur pada lingkaran dengan sudut pusat masing-masing 120° dan 240°. Hitung perbandingan panjang busur mereka!"
+  },
+  {
+    "prompt": "Sebuah lapangan bulat berjari-jari 25 m dipasang pagar keliling. Jika pagar dipasang setiap 50 cm, berapa jumlah batang pagar yang dibutuhkan? (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah roda berdiameter 1 m berputar 600 kali. Hitung jarak yang ditempuh! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah roda sepeda memiliki jari-jari 30 cm dan menempuh jarak 150 m. Berapa kali roda berputar? (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah cetakan kue bulat memiliki diameter 20 cm, dan adonan diisi setebal 2 cm. Hitung volume adonan yang diperlukan!"
+  },
+  {
+    "prompt": "Dua lingkaran dengan luas 64π cm² dan 100π cm². Hitung perbandingan keliling kedua lingkaran!"
+  },
+  {
+    "prompt": "Jika sebuah lingkaran berjari-jari 7 cm dibentuk bujur sangkar dengan luas yang sama, tentukan panjang sisi bujur sangkar tersebut!"
+  },
+  {
+    "prompt": "Jika jari-jari lingkaran diperbesar dari 5 cm menjadi 8 cm, tentukan faktor perubahan luas dan faktor perubahan keliling lingkaran!"
+  },
+  {
+    "prompt": "Hitung panjang busur untuk sudut pusat 210° pada lingkaran berjari-jari 9 cm! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Sebuah segmen lingkaran dengan sudut pusat 60° pada lingkaran berjari-jari 12 cm. Hitung luas segmen tersebut! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Diketahui luas gelang antara dua lingkaran konsentris 44π cm². Jika jari-jari dalam 6 cm, tentukan jari-jari luar! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah lingkaran berdiameter 30 cm. Hitung panjang tali busur untuk sudut pusat 120°! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Diketahui jari-jari lingkaran 8 cm dan sudut pusat juring 150°. Hitung apotema juring tersebut!"
+  },
+  {
+    "prompt": "Sebuah roda gigi memiliki keliling 62,8 cm. Hitung jari-jarinya! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Lingkaran berjari-jari 15 cm. Hitung luas juring untuk sudut pusat 25°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Dua busur pada lingkaran berjari-jari 10 cm memiliki sudut pusat masing-masing 40° dan 100°. Hitung selisih panjang kedua busur! (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Jika luas lingkaran 200 cm², tentukan panjang busur untuk sudut pusat 45°! (gunakan π = 22/7)"
+  },
+  {
+    "prompt": "Sebuah koin logam berbentuk lingkaran jari-jari 2 cm. Jika 50 koin disusun berjajar membentuk garis, berapa panjang total busur keliling koin? (gunakan π = 3,14)"
+  },
+  {
+    "prompt": "Hitung faktor perubahan keliling dan luas jika jari-jari lingkaran diperbesar dari 7 cm menjadi 14 cm!"
+  } 
+]

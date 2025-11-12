@@ -4,3 +4,7 @@ gunicorn
 requests
 python-dotenv
 python-docx
+numpy
+transformers
+scikit-learn
+torch

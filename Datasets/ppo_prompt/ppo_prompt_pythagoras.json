@@ -1,0 +1,380 @@
+[
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki panjang alas 6 cm dan tinggi 8 cm. Berapakah panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi miring 13 cm dan salah satu sisi siku-siku 5 cm. Hitung panjang sisi siku-siku yang lainnya!"
+  },
+  {
+    "prompt": "Sebuah lapangan berbentuk segitiga siku-siku dengan panjang alas 15 m dan sisi miring 17 m. Berapakah panjang tinggi lapangan tersebut?"
+  },
+  {
+    "prompt": "Seorang anak menaruh tangga bersandar ke tembok. Jarak kaki tangga ke tembok 4 m dan panjang tangga 5 m. Berapa tinggi tangga mencapai tembok?"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku sama kaki memiliki panjang dua rusuk siku 7 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Pada sebuah segitiga siku-siku, panjang sisi miring adalah 25 cm dan salah satu sisi siku-siku adalah 15 cm. Berapa panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Diketahui satu sisi segitiga siku-siku 9 cm dan sisi miring 12 cm. Hitung panjang sisi siku-siku kedua!"
+  },
+  {
+    "prompt": "Sebuah persegi panjang memiliki panjang 12 m dan lebar 5 m. Jika ditarik garis diagonal, berapa panjang diagonalnya?"
+  },
+  {
+    "prompt": "Seorang tukang memasang tiang bendera dengan tali pengikat. Jika tali membentuk segitiga siku-siku dengan tinggi tiang 8 m dan jarak titik ikat ke tiang 6 m, berapa panjang tali yang dibutuhkan?"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki panjang sisi miring 29 cm dan salah satu sisi siku-siku 21 cm. Tentukan panjang sisi siku-siku lainnya!"
+  },
+  {
+    "prompt": "Pada sebuah lapangan, ditarik garis dari satu sudut ke sudut berlawanan membentuk segitiga siku-siku. Jika alas 20 m dan tinggi 15 m, berapa panjang garis diagonal tersebut?"
+  },
+  {
+    "prompt": "Sebuah tangga panjangnya 10 m bersandar pada tembok. Jika ujung atas tangga mencapai ketinggian 8 m, berapa jarak kaki tangga ke tembok?"
+  },
+  {
+    "prompt": "Segitiga siku-siku memiliki panjang dua sisi siku-siku 12 cm dan 9 cm. Hitung panjang sisi miring!"
+  },
+  {
+    "prompt": "Diketahui sisi miring sebuah segitiga siku-siku 20 m dan salah satu sisi siku-siku 12 m. Berapa panjang sisi siku-siku yang lain?"
+  },
+  {
+    "prompt": "Seorang pelari berlari melintasi lapangan berbentuk segitiga siku-siku dengan panjang sisi siku-siku 30 m dan 16 m. Berapa jarak paling pendek yang ditempuh jika ia berlari dari satu sudut ke sudut siku-siku ke sudut lain?"
+  },
+  {
+    "prompt": "Sebuah papan dilengkungkan sebagai tangga dengan panjang 5 m dan bagian bawahnya 3 m dari tembok. Hitung tinggi akhir papan di tembok!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku sama kaki dengan panjang sisi siku-siku 10 cm. Berapakah panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Diketahui alas segitiga siku-siku 8 dm dan tinggi 15 dm. Tentukan panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki sisi miring 50 cm dan salah satu sisi siku-siku 14 cm. Hitung panjang sisi siku-siku kedua!"
+  },
+  {
+    "prompt": "Seorang tukang listrik memasang kabel membentuk segitiga siku-siku dari tiang ke titik di tanah. Jika tinggi tiang 12 m dan jarak titik di tanah 5 m, berapa panjang kabel yang dibutuhkan?"
+  },
+  {
+    "prompt": "Sebuah lapangan basket berbentuk persegi panjang 28 m × 15 m. Hitung panjang garis diagonal lapangan!"
+  },
+  {
+    "prompt": "Segitiga siku-siku memiliki panjang sisi miring 17 cm dan salah satu sisi siku-siku 8 cm. Berapa panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi siku-siku 24 cm dan 10 cm. Tentukan panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Sebuah tangga panjangnya 13 m bersandar pada tembok setinggi 5 m. Berapa jarak kaki tangga ke tembok?"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki panjang alas 18 m dan tinggi 24 m. Berapakah panjang sisi miring?"
+  },
+  {
+    "prompt": "Seorang pemanjat memanjat dinding dengan tali membentuk segitiga siku-siku. Jika tinggi dinding 9 m dan tali diikat 12 m dari titik lepas, berapa panjang tali yang diikat ke puncak?"
+  },
+  {
+    "prompt": "Diketahui sisi miring segitiga siku-siku 26 cm dan salah satu sisi siku-siku 10 cm. Hitung panjang sisi siku-siku lainnya!"
+  },
+  {
+    "prompt": "Pada sebuah taman, seorang pengunjung berjalan dari satu titik ke titik lain membentuk segitiga siku-siku. Jika jarak melintang 21 m dan jarak lurus 28 m, berapa jarak terpendek yang harus ditempuh?"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku sama kaki memiliki panjang sisi-sisi siku 5 m. Berapa panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi siku-siku 16 dm dan sisi miring 20 dm. Hitung panjang sisi siku-siku lainnya!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki panjang alas 7,5 cm dan tinggi 12,8 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi miring 26,5 cm dan salah satu sisi siku-siku 15,2 cm. Berapakah panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Sebuah layar televisi berbentuk persegi panjang memiliki lebar 81 cm dan tinggi 48 cm. Hitung panjang diagonal layarnya!"
+  },
+  {
+    "prompt": "Sebuah tiang lampu setinggi 9,3 m ditegakkan di tanah. Jika bayangan tiang sepanjang 4,7 m membentuk sudut siku-siku dengan tiang, berapakah panjang garis lurus dari ujung bayangan ke puncak tiang?"
+  },
+  {
+    "prompt": "Sebuah tangga diletakkan menempel pada tembok dengan ketinggian mencapai 13,5 m, sedangkan jarak kaki tangga ke tembok 5,6 m. Hitung panjang tangga yang dibutuhkan!"
+  },
+  {
+    "prompt": "Taman berbentuk segitiga siku-siku dengan sisi-sisi siku-siku sepanjang 20,5 m dan 14,2 m. Berapa panjang pagar yang dibutuhkan jika diukur dari ujung satu sisi siku-siku ke ujung sisi lainnya?"
+  },
+  {
+    "prompt": "Sebuah papan kayu lurus sepanjang 2,4 m dipotong membentuk segitiga siku-siku dengan alas 1,5 m. Hitung panjang sisi miring potongan papan kayu tersebut!"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan panjang satu sisi siku-siku 18 m dan sisi miring 22 m. Berapa panjang sisi siku-siku lainnya dalam meter?"
+  },
+  {
+    "prompt": "Sebilah papan miring dipasang sebagai tanjakan. Jika ketinggian tanjakan 0,8 m dan panjang tanjakan horizontal 1,2 m, hitung panjang miring tanjakan!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki rusuk siku-siku 9,6 cm dan 12,8 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Pada bidang koordinat, titik A (3,4) dan titik B (10,12) membentuk segitiga siku-siku dengan sumbu X. Hitung jarak lurus antara titik A dan B!"
+  },
+  {
+    "prompt": "Dua tiang dengan tinggi 15,5 m dan 7,2 m berjarak sejajar 20 m. Jika puncak keduanya dihubungkan, hitung panjang kabel yang membentang antara puncak tiang!"
+  },
+  {
+    "prompt": "Sebuah rak buku berbentuk persegi panjang dengan lebar 40 cm dan tinggi 50 cm. Hitung panjang diagonal bagian depan rak tersebut!"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi miring 30 cm dan salah satu sisi siku-siku 16 cm. Hitung panjang sisi siku-siku lainnya!"
+  },
+  {
+    "prompt": "Sebuah layar proyektor berbentuk persegi panjang dengan diagonal 65 inci. Jika lebar layar 48 inci, berapa tinggi layar?"
+  },
+  {
+    "prompt": "Sebuah jembatan berbentuk segitiga siku-siku dengan alas 14,3 m dan sisi miring 17,6 m. Hitung tinggi jembatan di titik tertinggi!"
+  },
+  {
+    "prompt": "Tangga besi dengan panjang 11,2 m menempel pada gedung sehingga membentuk sudut siku-siku dengan tanah. Jika ketinggian yang dicapai 9,8 m, berapa jarak kaki tangga ke gedung?"
+  },
+  {
+    "prompt": "Sebuah lapangan futsal berukuran 20 m × 10 m. Hitung panjang diagonal lapangan!"
+  },
+  {
+    "prompt": "Diketahui sebuah segitiga siku-siku sama kaki dengan panjang sisi siku-siku 12,5 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Sebuah kapal berlabuh pada pelabuhan, tali pengikat membentuk segitiga siku-siku dengan tinggi tiang 18 m dan jarak horisontal 8 m. Berapa panjang tali yang diikat ke ujung tiang?"
+  },
+  {
+    "prompt": "Bentuk atap rumah terdiri dari segitiga siku-siku dengan tinggi 2,7 m dan setengah lebar atap 4 m. Hitung panjang sisi miring atap pada satu sisi!"
+  },
+  {
+    "prompt": "Sebuah papan baja memiliki panjang 3,5 m dan akan dipotong menjadi potongan segitiga siku-siku dengan tinggi 2,1 m. Berapakah panjang potongan sisi miringnya?"
+  },
+  {
+    "prompt": "Dua titik pada bidang koordinat: P (−5,2) dan Q (9,−6). Hitung jarak lurus antara P dan Q!"
+  },
+  {
+    "prompt": "Sebuah lampu sorot diletakkan 6,5 m dari dinding dan menyinari titik di dinding setinggi 5,2 m. Hitung panjang sinar lampu yang tegak lurus ke titik tersebut!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki sisi siku-siku 17,5 cm dan 4,8 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Papan miring sepanjang 15 kaki digunakan sebagai jembatan kecil. Jika salah satu ujungnya 9 kaki lebih tinggi dari ujung lainnya, hitung jarak horizontal antara kedua ujung papan!"
+  },
+  {
+    "prompt": "Sebuah trik mengukur lebar sungai menggunakan dua tiang sejajar. Tiang A dan B berjarak 50 m di darat. Dari titik C di seberang, jarak ke tiang B adalah 65 m dan sudut di C ke tiang A dan B siku-siku. Berapa lebar sungai (jarak ke tiang A)?"
+  },
+  {
+    "prompt": "Sebuah papan reklame berbentuk persegi panjang dipasang miring. Jika tinggi papan 3,6 m dan diagonal papan 5 m, berapa lebarnya?"
+  },
+  {
+    "prompt": "Dua gedung berdiri dengan jarak dasar 30 m. Puncak gedung A setinggi 50 m, Gedung B setinggi 40 m. Jika tali diikat dari puncak gedung A ke puncak gedung B, hitung panjang tali!"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki sisi-sisi siku 0,75 m dan 1,2 m. Berapa panjang sisi miringnya dalam meter?"
+  },
+  {
+    "prompt": "Di lapangan voli, garis diagonal lapangan adalah 30 m. Jika lebar lapangan 18 m, berapakah panjang sisi lainnya?"
+  },
+  {
+    "prompt": "Sebuah perahu berlabuh di dermaga, tali menghubungkan puncak tiang 12 m ke titik di dermaga yang berjarak 5,5 m. Hitung panjang tali!"
+  },
+  {
+    "prompt": "Sebuah atap gudang membentuk segitiga siku-siku dengan tinggi atap 4 m dan setengah lebar 6 m. Berapa panjang sisi miring atap?"
+  },
+  {
+    "prompt": "Sebuah tangga pendakian di jalan pegunungan memiliki ketinggian 2,5 m vertikal dan panjang miring 6 m. Berapa jarak horizontal tangga ke tanah?"
+  },
+  {
+    "prompt": "Sebuah layar monitor komputer berukuran 24 inci secara diagonal. Jika rasio lebar dan tingginya 16:9, hitung lebar layar dalam inci!"
+  },
+  {
+    "prompt": "Sebuah lapangan sepak bola mini berukuran 18 m × 9 m. Berapa panjang lintasan diagonal lapangan?"
+  },
+  {
+    "prompt": "Dua tiang lampu berada berjarak 40 m. Dari puncak tiang A, tali diturunkan ke tanah pada titik yang sejajar dengan tiang B. Jika panjang tali 41 m, hitung jarak horizontal antara puncak tiang A dan titik di tanah!"
+  },
+  {
+    "prompt": "Sebuah papan baja sepanjang 5,5 m digunakan sebagai jembatan. Jika kaki jembatan terangkat 1,8 m, berapa jarak horizontal papan ke tanah?"
+  },
+  {
+    "prompt": "Sebuah segitiga siku-siku memiliki sisi miring 34 cm dan selisih panjang sisi siku-siku 10 cm. Cari panjang kedua sisi siku-siku!"
+  },
+  {
+    "prompt": "Sebuah lapangan basket indoor memiliki panjang 28,7 m dan lebar 15,2 m. Hitung panjang diagonal lapangan!"
+  },
+  {
+    "prompt": "Dua puncak gunung di peta berjarak 13 cm dengan skala 1:250.000. Ketinggian gunung A 2000 m dan B 1200 m. Hitung jarak garis lurus antara kedua puncak gunung dalam meter!"
+  },
+  {
+    "prompt": "Saya punya segitiga siku-siku dengan alas 7 cm dan tinggi 24 cm. Berapa panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi miring 25 cm dan salah satu sisi siku-siku 15 cm. Bagaimana cara mencari panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Sebuah tangga panjangnya 10,5 m bersandar pada tembok setinggi 9 m. Berapa jarak kaki tangga ke tembok?"
+  },
+  {
+    "prompt": "Lapangan sekolah berbentuk persegi panjang 12 m × 5 m. Jika ditarik diagonal, berapa panjang diagonalnya?"
+  },
+  {
+    "prompt": "Segitiga siku-siku sama kaki mempunyai sisi siku-siku 11,2 cm. Berapa panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Saya menggambar segitiga siku-siku di kertas koordinat dengan titik A(−2,3) dan B(4,11). Hitung jarak lurus antara A dan B."
+  },
+  {
+    "prompt": "Sebuah papan miring akan dipasang dengan ketinggian 1,8 m dan panjang horizontal 2,4 m. Berapa panjang papan miring yang dibutuhkan?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku memiliki sisi-sisi siku 9,3 cm dan 12,4 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Sisi miring sebuah segitiga siku-siku 20,6 m dan salah satu sisi siku-siku 8,4 m. Berapa panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Taman sekolah berbentuk segitiga siku-siku dengan alas 18 m dan tinggi 24 m. Berapa panjang pagar yang membentang pada sisi miring?"
+  },
+  {
+    "prompt": "Sebuah pesawat mainan terbang membentuk sudut siku-siku dengan jarak horizontal 13 m dan vertikal 5 m. Hitung jarak terpendek dari pesawat ke titik asal!"
+  },
+  {
+    "prompt": "Tangga dengan panjang 14,2 m menempel pada dinding sehingga ketinggiannya 11,8 m. Hitung jarak dari ujung tangga ke dasar dinding!"
+  },
+  {
+    "prompt": "Dua menara pemancar berjarak horizontal 30 m. Tinggi menara A 42 m, tinggi menara B 10 m. Berapa panjang kabel yang menghubungkan kedua puncak?"
+  },
+  {
+    "prompt": "Saya ingin menghitung lebar sungai. Dari titik A ke titik B berjarak 56 m di sepanjang tepi. Dari titik B ke titik C jaraknya 65 m dan sudut di B siku-siku. Berapa lebar sungai (AC)?"
+  },
+  {
+    "prompt": "Sebuah papan reklame segitiga siku-siku mempunyai alas 4,5 m dan tinggi 3,2 m. Hitung panjang sisi miringnya dalam meter!"
+  },
+  {
+    "prompt": "Diketahui diagonal sebuah layar laptop 15,6 inci dengan rasio 16:9. Berapa lebar layarnya dalam inci?"
+  },
+  {
+    "prompt": "Sebuah kabel diikat dari puncak tiang setinggi 7,5 m ke ujung tanah yang berjarak 5,6 m. Berapa panjang kabel yang diperlukan?"
+  },
+  {
+    "prompt": "Lapangan badminton berukuran 13,4 m × 6,1 m. Berapa panjang garis diagonal lapangan?"
+  },
+  {
+    "prompt": "Dua tiang lampu A dan B berdiri sejajar dengan jarak 22 m. Tinggi A 18 m, tinggi B 8 m. Jika ujung kabel di A dihubungkan ke dasar B, hitung panjang kabel!"
+  },
+  {
+    "prompt": "Saya ingin mengukur tinggi gedung. Dari titik C ke ujung gedung horizontal 12,7 m, sudut antara garis pandang dan tanah siku-siku di C. Jika panjang garis pandang 15,3 m, berapa tinggi gedung?"
+  },
+  {
+    "prompt": "Segitiga siku-siku sama kaki mempunyai keliling 40 cm. Hitung panjang masing-masing sisi!"
+  },
+  {
+    "prompt": "Garis diagonal kolam renang berbentuk persegi panjang 25 m × 10 m. Berapa panjang diagonalnya?"
+  },
+  {
+    "prompt": "Sebuah papan miring setinggi 2,4 m dan panjang miring 4 m. Berapa kedalaman horizontal papan ke tanah?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan luas 84 m² dan salah satu sisi siku-siku 7 m. Berapa panjang sisi siku-siku lainnya?"
+  },
+  {
+    "prompt": "Taman bermain berbentuk segitiga siku-siku dengan sisi siku 17,5 m dan 8,4 m. Hitung panjang pagar sisi miring!"
+  },
+  {
+    "prompt": "Dua titik P(−4,−1) dan Q(8,7) membentuk segitiga siku-siku dengan sumbu X. Hitung jarak lurus antara P dan Q!"
+  },
+  {
+    "prompt": "Aku memasang tangga busur dengan panjang 5,2 m, sudut antara tangga dan tanah siku-siku di pangkal adalah 60°. Berapa ketinggian yang dicapai tangga?"
+  },
+  {
+    "prompt": "Sebuah papan seluncur dipasang dengan ketinggian 2,1 m dan sudut antara papan dan tanah 30°. Berapa panjang papan seluncur?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku sama kaki dengan keliling 20√2 cm. Berapa panjang sisi kaki dan sisi miringnya?"
+  },
+  {
+    "prompt": "Sebuah gedung memiliki bayangan sepanjang 9,6 m saat matahari tegak lurus. Jika tinggi gedung 12,8 m, jarak lurus dari ujung bayangan ke puncak gedung berapa meter?"
+  },
+  {
+    "prompt": "Lapangan futsal berukuran 20,5 m × 9,2 m. Hitung panjang diagonal lapangan!"
+  },
+  {
+    "prompt": "Sebuah pompa air di dalam tanah memompa air ke tangki setinggi 7 m, pipa horizontal panjangnya 4,2 m. Berapa panjang pipa miring dari pompa ke tangki?"
+  },
+  {
+    "prompt": "Dua titik di atap rumah berada pada ketinggian 5 m dan 2 m, berjarak horizontal 6,5 m. Hitung jarak diagonal di antara kedua titik!"
+  },
+  {
+    "prompt": "Sebuah perahu berlabuh di dermaga dengan tali yang membentuk sudut siku-siku: tinggi menara 8,4 m dan jarak horizontal ke perahu 6,3 m. Berapa panjang tali?"
+  },
+  {
+    "prompt": "Aku mengukur lebar lapangan voli yang diagonalnya 30,6 m dan tinggi segiempat 18 m. Berapa lebar lapangan?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan sisi-sisi siku 13,5 cm dan 5,2 cm. Hitung panjang sisi miringnya!"
+  },
+  {
+    "prompt": "Sebuah kawat diikat dari puncak menara setinggi 10,7 m ke tanah sejauh 6,4 m. Berapa panjang kawat?"
+  },
+  {
+    "prompt": "Segitiga siku-siku di koordinat P(2,−3) dan Q(−6,5). Hitung jarak lurus PQ!"
+  },
+  {
+    "prompt": "Sebuah papan reklame segiempat 4,8 m × 2,7 m. Berapa panjang diagonal papan?"
+  },
+  {
+    "prompt": "Dua gedung A dan B berjarak dasar 50 m. Tinggi A 35 m, tinggi B 15 m. Jika kabel dihubungkan dari puncak A ke dasar B, berapa panjang kabel?"
+  },
+  {
+    "prompt": "Aku ingin membuat jembatan papan dengan panjang miring 6,5 m untuk mencapai ketinggian 2,4 m. Berapa kedalaman horizontal yang dibutuhkan?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku sama kaki dengan sisi kaki 9,6 cm. Berapa panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Sebuah layar proyektor diagonalnya 70 inci, rasio 16:10. Hitung tinggi layarnya!"
+  },
+  {
+    "prompt": "Aku memiliki kolam renang berbentuk persegi panjang 15,4 m × 6,8 m. Berapa panjang diagonalnya?"
+  },
+  {
+    "prompt": "Sebuah tiang bendera setinggi 11,2 m terpasang bayangan sepanjang 5,6 m. Hitung jarak lurus dari ujung bayangan ke puncak tiang!"
+  },
+  {
+    "prompt": "Dua menara telekomunikasi berjarak horizontal 45 m. Tinggi A 22,5 m, B 10 m. Jika kabel diikat dari puncak A ke puncak B, berapa panjang kabel?"
+  },
+  {
+    "prompt": "Aku menggambar segitiga siku-siku dengan rusuk siku 8,3 cm dan 6,1 cm. Hitung panjang sisi miring!"
+  },
+  {
+    "prompt": "Sebuah papan seluncur dipasang miring dengan panjang 3,6 m dan sudut 25° terhadap tanah. Berapa tinggi papan mencapai dinding?"
+  },
+  {
+    "prompt": "Diketahui segitiga siku-siku dengan luas 100 cm² dan salah satu sisi siku 8 cm. Berapa panjang sisi siku lainnya?"
+  },
+  {
+    "prompt": "Lapangan basket indoor berukuran 28,65 m × 15,24 m. Hitung panjang diagonal lapangan!"
+  },
+  {
+    "prompt": "Sebuah kabel lampu diikat dari puncak tiang setinggi 5,8 m ke tanah sejauh 3,2 m. Berapa panjang kabel?"
+  },
+  {
+    "prompt": "Dua titik pada atap A(−3,4) dan B(5,−2) membentuk segitiga siku-siku dengan sumbu Y. Hitung jarak lurus antara A dan B!"
+  },
+  {
+    "prompt": "Aku ingin menghitung sisi miring segitiga siku-siku jika alas 14,7 cm dan tinggi 9,8 cm. Berapa panjang sisi miringnya?"
+  },
+  {
+    "prompt": "Sebuah gedung memancarkan bayangan 12,3 m saat matahari miring. Jika ketinggian gedung 16,2 m, berapa panjang bayangan diagonal?"
+  }
+]
+
+  
+  

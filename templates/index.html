@@ -22,6 +22,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/php.min.js"></script>
     <!-- Marked.js for Markdown parsing -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <!-- Swal for alerts -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   </head>
 
   <body>
@@ -48,7 +50,6 @@
             </div>
             
             <div id="messageFormeight" class="card-body message-area">
-              <!-- Welcome message -->
               <div class="message assistant-message" data-message-id="welcome">
                 <div class="message-avatar">
                   <img src="{{ url_for('static', filename='Logo/math_icon.jpg') }}" alt="Avatar">
@@ -62,22 +63,21 @@
                   <div class="message-bubble">
                     Hi! Aku adalah chatbot di bidang matematika. Ada yang bisa saya bantu?
                   </div>
-                  <div class="message-time">Now</div>
+                  <div class="message-time" id="first_date"></div>
                 </div>
               </div>
             </div>
 
             <div class="card-footer">
               <form id="messageArea" class="input-group">
-                <input
-                  type="text"
+                <textarea
                   id="text"
                   name="msg"
                   placeholder="Ketik pesanmu disini..."
                   autocomplete="off"
-                  class="form-control message-input"
-                  required
-                />
+                  class="form-control message-input flex-grow-1"
+                  rows="1"
+                  required></textarea>
                 <button type="submit" id="send" class="btn send-button">
                   <i class="fas fa-paper-plane"></i>
                 </button>
@@ -137,12 +137,37 @@
         return marked.parse(text);
       }
 
-      // Store message history for regeneration
+      function autoResize() {
+        this.style.height = "auto";   
+        this.style.height = this.scrollHeight + "px";
+      }
+
+      function getCurTime(){
+        let date = new Date();
+        let hour = date.getHours().toString().padStart(2, '0');
+        let minute = date.getMinutes().toString().padStart(2, '0');
+        let str_time = hour + ":" + minute;
+        return str_time;
+      }
+
       const messageHistory = {};
       let lastUserMessageId = null;
       
       $(document).ready(function () {
         scrollToBottom();
+       
+        var rawText = $("#first_date").text(getCurTime());
+
+        const $text = $("#text");
+        $text.on("input", autoResize);
+        autoResize.call($text[0]);  
+        $text.on("keydown", function (e) {
+          if (e.key === "Enter" && !e.shiftKey) {
+            e.preventDefault();  
+            $("#messageArea").submit();    
+          }
+        });
+
         $.ajax({
           data: {},
           type: "DELETE",
@@ -167,7 +192,7 @@
             '<i class="fas fa-sync-alt"></i></button>' +
             '</div>' +
             '<div class="message-bubble">Hi! Aku adalah chatbot di bidang matematika. Ada yang bisa saya bantu?</div>' +
-            '<div class="message-time">Now</div></div></div>';
+            '<div class="message-time">'+getCurTime()+'</div></div></div>';
           $("#messageFormeight").append(welcomeMsg);
           // Clear message history
           Object.keys(messageHistory).forEach(key => delete messageHistory[key]);
@@ -181,7 +206,10 @@
               disableTextAndSend();
             }
           }).done(function (data) {
-            alert('History berhasil dihapus!');
+            Swal.fire({
+              icon: "success",
+              title: "History berhasil dihapus",
+            });
             enableTextAndSend();
           });
         });
@@ -194,10 +222,6 @@
         $("#messageArea").on("submit", function (event) {
           event.preventDefault();
           
-          const date = new Date();
-          const hour = date.getHours().toString().padStart(2, '0');
-          const minute = date.getMinutes().toString().padStart(2, '0');
-          const str_time = hour + ":" + minute;
           var rawText = $("#text").val();
 
           if (!rawText.trim()) {
@@ -211,7 +235,7 @@
           messageHistory[userMessageId] = {
             type: 'user',
             text: rawText,
-            time: str_time
+            time: getCurTime()
           };
 
           var userHtml =
@@ -228,7 +252,7 @@
             '<button class="edit-btn cancel-edit">Cancel</button>' +
             '<button class="edit-btn save-edit">Save</button>' +
             '</div></div>' +
-            '<div class="message-time">' + str_time + '</div>' +
+            '<div class="message-time">' + getCurTime() + '</div>' +
             '</div>' +
             '<div class="message-avatar">' +
             '</div></div>';
@@ -241,17 +265,14 @@
           event.preventDefault();
         });
 
-        // Function to send message to backend and handle response
         function sendMessage(message, userMessageId, isRegenerate = false) {
           const date = new Date();
           const hour = date.getHours().toString().padStart(2, '0');
           const minute = date.getMinutes().toString().padStart(2, '0');
           const str_time = hour + ":" + minute;
           
-          // Generate a unique ID for the bot response
           const botMessageId = generateMessageId();
           
-          // Add typing indicator
           var typingHtml = 
             '<div class="message assistant-message" id="typing-indicator">' +
             '<div class="message-avatar">' +
@@ -263,7 +284,6 @@
           $("#messageFormeight").append(typingHtml);
           scrollToBottom();
 
-          // If regenerating, remove the old response
           if (isRegenerate && messageHistory[userMessageId] && messageHistory[userMessageId].responseId) {
             const oldResponseId = messageHistory[userMessageId].responseId;
             $(`[data-message-id="${oldResponseId}"]`).remove();
@@ -285,12 +305,14 @@
           }
 
           $.ajax({
-            data: {
-              msg: message,
+            data: JSON.stringify({
+              msg: message.replace(/\r?\n/g, "\\n"),
               regenerate: isRegenerate ? 1 : 0
-            },
+            }),
             type: "POST",
             url: "/get",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",  
             beforeSend: function() {
               disableTextAndSend();
             }
@@ -324,7 +346,6 @@
             
             $("#messageFormeight").append($.parseHTML(botHtml));
             
-            // Apply highlighting to any code blocks that might have been missed
             document.querySelectorAll('.message-bubble pre code').forEach((block) => {
               hljs.highlightElement(block);
             });
@@ -332,34 +353,33 @@
             scrollToBottom();
             
             enableTextAndSend();
-          }).fail(function() {
+          }).fail(function(jqXHR, textStatus, errorThrown) {
             $("#typing-indicator").remove();
-            
-            var errorHtml =
-              '<div class="message assistant-message" data-message-id="' + botMessageId + '">' +
-              '<div class="message-avatar">' +
-              '<img src="{{ url_for("static", filename="Logo/math_icon.jpg") }}" alt="Avatar">' +
-              '</div><div class="message-content">' +
-              '<div class="message-actions">' +
-              '<button class="message-action-btn regenerate-msg" title="Regenerate response">' +
-              '<i class="fas fa-sync-alt"></i></button>' +
-              '</div>' +
-              '<div class="message-bubble">Sorry, I encountered an error processing your request. Please try again.</div>' +
-              '<div class="message-time">' + str_time + '</div></div></div>';
-            
-            $("#messageFormeight").append($.parseHTML(errorHtml));
+            const parsed = JSON.parse(jqXHR.responseText);
+
+            if (parsed && parsed.status == 400) {
+              let message = parsed.message; 
+              Swal.fire({
+                icon: "error",
+                title: "Service Unavailable",
+                text: message
+              });
+            }else{
+              Swal.fire({
+                icon: "error",
+                title: "Service Unavailable",
+              });
+            }
+
             scrollToBottom();
-            
             enableTextAndSend();
           });
         }
 
-        // Delegate event handlers for message actions
         $(document).on('click', '.edit-msg', function() {
           const messageContent = $(this).closest('.message-content');
           const message = $(this).closest('.message');
           
-          // Enter edit mode
           message.addClass('edit-mode');
           messageContent.find('.edit-input').focus();
         });
@@ -367,7 +387,6 @@
         $(document).on('click', '.cancel-edit', function() {
           const message = $(this).closest('.message');
           
-          // Exit edit mode
           message.removeClass('edit-mode');
         });
 
@@ -378,20 +397,15 @@
           const messageId = message.data('message-id');
           
           if (newText && messageHistory[messageId]) {
-            // Update the message text in history
             messageHistory[messageId].text = newText;
             
-            // Update the UI
             messageContent.find('.message-bubble').html(newText);
             
-            // Exit edit mode
             message.removeClass('edit-mode');
             
-            // If this message has a response, regenerate it
             if (messageHistory[messageId].responseId) {
               const responseId = messageHistory[messageId].responseId;
               
-              // Trigger regeneration
               sendMessage(newText, messageId, true);
             }
           }
@@ -401,7 +415,6 @@
           const message = $(this).closest('.message');
           const messageId = message.data('message-id');
           
-          // Find the user message associated with this response
           let userMessageId = null;
           
           if (messageHistory[messageId] && messageHistory[messageId].type === 'bot') {
@@ -410,15 +423,13 @@
             if (lastUserMessageId) {
               userMessageId = lastUserMessageId;
             } else {
-              return; // Cannot regenerate without a user message
+              return; 
             }
           }
           
-          // Get the user message text
           if (messageHistory[userMessageId]) {
             const userText = messageHistory[userMessageId].text;
             
-            // Send the message to regenerate the response
             sendMessage(userText, userMessageId, true);
           }
         });

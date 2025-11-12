@@ -1,0 +1,400 @@
+[
+  {
+    "prompt": "Sebuah prisma segitiga memiliki alas segitiga dengan panjang sisi 6 cm, 8 cm, dan 10 cm, serta tinggi prisma 15 cm. Hitung volume prisma tersebut!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segiempat tegak dengan panjang 5 cm, lebar 3 cm, dan tinggi 12 cm!"
+  },
+  {
+    "prompt": "Diketahui limas segiempat beraturan dengan panjang sisi alas 4 cm dan tinggi limas 9 cm. Berapakah volume limas tersebut?"
+  },
+  {
+    "prompt": "Sebuah prisma segiempat dengan alas persegi panjang berukuran 7 cm × 4 cm dan tinggi prisma 10 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara limas dan prisma dari segi jumlah alas, rusuk, dan sisi tegak!"
+  },
+  {
+    "prompt": "Hitung volume limas segitiga dengan alas segitiga sama sisi panjang sisi 6 cm dan tinggi limas 8 cm!"
+  },
+  {
+    "prompt": "Diketahui prisma segitiga dengan alas segitiga siku-siku yang memiliki alas 3 cm dan tinggi 4 cm, serta tinggi prisma 12 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan dengan panjang sisi alas 5 cm dan apotema 13 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Hitung volume dan luas permukaan prisma segitiga sama sisi dengan panjang sisi 8 cm dan tinggi prisma 14 cm!"
+  },
+  {
+    "prompt": "Apa rumus umum untuk menghitung volume prisma dan jelaskan apa arti tiap variabelnya!"
+  },
+  {
+    "prompt": "Sebuah limas segi lima beraturan memiliki panjang sisi alas 6 cm dan tinggi limas 15 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Diketahui prisma segi enam beraturan dengan panjang sisi alas 6 cm dan tinggi prisma 18 cm. Hitung volume prisma tersebut!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segiempat dengan alas persegi panjang 8 cm × 5 cm dan tinggi prisma 10 cm!"
+  },
+  {
+    "prompt": "Sebuah limas segi tiga dengan alas segitiga sama sisi panjang sisi 10 cm dan tinggi limas 9 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Sebutkan rumus luas permukaan limas segitiga dan jelaskan komponennya!"
+  },
+  {
+    "prompt": "Diketahui prisma segitiga dengan alas segitiga sama kaki panjang alas 10 cm, sisi kaki 13 cm, serta tinggi prisma 12 cm. Hitung volume prisma tersebut!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan dengan alas persegi 8 cm dan tinggi limas 12 cm. Hitung volume dan luas permukaannya!"
+  },
+  {
+    "prompt": "Hitung volume prisma segiempat dengan alas persegi panjang 9 cm × 6 cm dan tinggi prisma 11 cm!"
+  },
+  {
+    "prompt": "Diketahui limas segi tiga dengan alas segitiga siku-siku yang memiliki alas 5 cm dan tinggi 12 cm, serta tinggi limas 10 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Jelaskan bagaimana cara menentukan apotema pada limas segiempat beraturan!"
+  },
+  {
+    "prompt": "Hitunglah luas permukaan kubus ABCD.EFGH dengan panjang rusuk 4 cm!"
+  },
+  {
+    "prompt": "Hitunglah luas permukaan balok ABCD.EFGH dengan panjang 15 cm, lebar 6 cm, tinggi 8 cm!"
+  },
+  {
+    "prompt": "Hitung volume prisma segitiga dengan alas segitiga sama sisi panjang sisi 6 cm dan tinggi prisma 12 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segiempat dengan alas persegi panjang berukuran 10 cm × 4 cm dan tinggi prisma 8 cm!"
+  },
+  {
+    "prompt": "Hitung volume limas segitiga beraturan dengan alas segitiga sama sisi panjang sisi 9 cm dan tinggi limas 14 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan limas segiempat beraturan dengan alas persegi sisi 7 cm dan apotema 10 cm!"
+  },
+  {
+    "prompt": "Jelaskan apa itu limas dan sebutkan sifat-sifatnya!"
+  },
+  {
+    "prompt": "Hitung volume prisma segi lima beraturan dengan alas pentagon sisi 5 cm dan tinggi prisma 15 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segi enam beraturan dengan sisi alas 6 cm dan tinggi prisma 20 cm!"
+  },
+  {
+    "prompt": "Hitung volume limas segiempat dengan alas persegi panjang 8 cm × 6 cm dan tinggi limas 12 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan limas segitiga siku-siku dengan alas 3 cm, tinggi segitiga alas 4 cm, dan apotema limas 13 cm!"
+  },
+  {
+    "prompt": "Jelaskan apa itu prisma dan sebutkan sifat-sifatnya!"
+  },
+  {
+    "prompt": "Hitung volume dan luas permukaan prisma segitiga sama kaki dengan alas 10 cm, kaki 13 cm, dan tinggi prisma 18 cm!"
+  },
+  {
+    "prompt": "Hitung volume limas segi lima beraturan dengan alas pentagon sisi 8 cm dan tinggi limas 20 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segiempat dengan alas persegi panjang 12 cm × 5 cm dan tinggi prisma 10 cm!"
+  },
+  {
+    "prompt": "Hitung volume dan luas permukaan limas segitiga sama sisi dengan sisi 7 cm dan tinggi limas 10 cm!"
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara volume dan luas permukaan pada bangun ruang!"
+  },
+  {
+    "prompt": "Hitung volume prisma segitiga siku-siku dengan alas 6 cm, tinggi alas 8 cm, dan tinggi prisma 10 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segi lima beraturan dengan alas pentagon sisi 4 cm dan tinggi prisma 15 cm!"
+  },
+  {
+    "prompt": "Hitung luas permukaan limas segi enam beraturan dengan alas segi enam sisi 5 cm dan apotema 12 cm!"
+  },
+  {
+    "prompt": "Hitung volume limas segitiga dengan alas segitiga sama kaki panjang alas 8 cm, kaki 10 cm, dan tinggi limas 14 cm!"
+  },
+  {
+    "prompt": "Jelaskan langkah-langkah umum dalam menghitung luas permukaan limas beraturan!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan memiliki panjang sisi alas 10 cm dan sisi tegak segitiga alas 13 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segitiga dengan alas segitiga siku-siku panjang alas 5 cm dan tinggi alas 12 cm, serta tinggi prisma 20 cm!"
+  },
+  {
+    "prompt": "Diketahui prisma segi lima beraturan dengan panjang sisi alas 6 cm dan tinggi prisma 14 cm. Hitung volume prisma tersebut!"
+  },
+  {
+    "prompt": "Sebuah bangun tersusun atas prisma segitiga sama sisi sisi 8 cm dan tinggi prisma 10 cm, serta limas segitiga sama sisi sisi 8 cm dan tinggi limas 6 cm. Hitung volume total bangun tersebut!"
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara limas beraturan dan limas tidak beraturan!"
+  },
+  {
+    "prompt": "Prisma segiempat dengan alas persegi 7 cm dan tinggi prisma 15 cm. Hitung luas sisi tegak dan luas permukaan total prisma!"
+  },
+  {
+    "prompt": "Diketahui limas segitiga sama siku dengan alas 6 cm, tinggi alas 8 cm, dan tinggi limas 12 cm. Hitung luas permukaan limas tersebut!"
+  },
+  {
+    "prompt": "Sebuah prisma segi enam beraturan memiliki panjang sisi alas 4 cm dan tinggi prisma 18 cm. Hitung luas permukaan prisma!"
+  },
+  {
+    "prompt": "Diketahui limas segiempat beraturan dengan volume 256 cm³ dan tinggi limas 8 cm. Hitung panjang sisi alasnya!"
+  },
+  {
+    "prompt": "Apa itu apotema pada limas beraturan dan bagaimana hubungannya dengan perhitungan luas permukaan?"
+  },
+  {
+    "prompt": "Sebuah limas segi tiga dengan luas alas 24 cm² dan tinggi limas 9 cm. Hitung volume limas!"
+  },
+  {
+    "prompt": "Prisma segitiga siku-siku memiliki alas 3 cm, tinggi alas 4 cm, dan tinggi prisma 12 cm. Hitung diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Diketahui prisma segiempat tegak dengan alas persegi panjang 9 cm × 5 cm dan tinggi prisma 16 cm. Hitung volume dan luas permukaan total prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segi enam beraturan dengan panjang sisi alas 5 cm dan apotema 13 cm. Hitung luas permukaan limas!"
+  },
+  {
+    "prompt": "Mengapa volume limas sama dengan ⅓ × luas alas × tinggi limas?"
+  },
+  {
+    "prompt": "Prisma segi tiga sama sisi dengan panjang sisi alas 6 cm dan tinggi prisma 22 cm. Hitung luas permukaan prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan dengan luas permukaan 300 cm² dan tinggi limas 10 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Diketahui prisma segi lima beraturan dengan volume 540 cm³ dan luas alas 60√3 cm². Hitung tinggi prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga sama sisi dengan panjang sisi alas 12 cm dan tinggi limas 9 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Apa perbedaan antara luas permukaan total dan luas sisi tegak pada prisma?"
+  },
+  {
+    "prompt": "Bangun ruang terdiri dari limas segiempat beraturan sisi alas 8 cm tinggi limas 12 cm, di atas prisma segiempat dengan alas sama dan tinggi prisma 10 cm. Hitung volume total bangun!"
+  },
+  {
+    "prompt": "Diketahui limas segi tiga dengan luas permukaan 150 cm² dan tinggi limas 8 cm. Hitung luas alas dan panjang sisi alas jika alas sama sisi!"
+  },
+  {
+    "prompt": "Prisma segitiga sama kaki dengan panjang alas 10 cm, sisi kaki 13 cm, dan tinggi prisma 17 cm. Hitung diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segi enam beraturan memiliki panjang sisi alas 7 cm dan tinggi limas 14 cm. Hitung volume limas!"
+  },
+  {
+    "prompt": "Jelaskan bagaimana konsep skala linier memengaruhi volume dan luas permukaan pada prisma beraturan!"
+  },
+  {
+    "prompt": "Diketahui total luas permukaan prisma segiempat 264 cm² dengan alas persegi 6 cm. Hitung tinggi prisma!"
+  },
+  {
+    "prompt": "Sebatang prisma segitiga dengan alas segitiga siku-siku alas 4 cm dan tinggi alas 3 cm, tinggi prisma 20 cm. Hitung luas sisi tegak prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segi lima beraturan dengan panjang sisi alas 9 cm, apotema 12 cm, dan tinggi limas 15 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Diketahui prisma segi delapan beraturan dengan panjang sisi alas 5 cm dan tinggi prisma 12 cm. Hitung volume prisma!"
+  },
+  {
+    "prompt": "Mengapa rumus volume prisma berbeda dengan rumus luas permukaan prisma?"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan memiliki luas alas 100 cm² dan tinggi limas 12 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segiempat dengan alas persegi panjang 6 cm × 9 cm dan tinggi prisma 15 cm!"
+  },
+  {
+    "prompt": "Diketahui prisma segitiga dengan alas segitiga sama sisi panjang sisi 7 cm dan tinggi prisma 18 cm. Hitung diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga siku-siku memiliki alas 6 cm, tinggi alas 8 cm, dan tinggi limas 15 cm. Hitung luas permukaan limas!"
+  },
+  {
+    "prompt": "Jelaskan mengapa apotema digunakan dalam perhitungan luas permukaan limas beraturan!"
+  },
+  {
+    "prompt": "Hitung volume dan luas permukaan prisma segi enam beraturan dengan panjang sisi alas 5 cm dan tinggi prisma 10 cm!"
+  },
+  {
+    "prompt": "Diketahui limas segi lima beraturan dengan panjang sisi alas 6 cm dan apotema 10 cm. Hitung luas permukaan limas!"
+  },
+  {
+    "prompt": "Hitung volume prisma segiempat dengan alas persegi sisi 8 cm dan tinggi prisma 20 cm!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga beraturan dengan sisi alas 9 cm dan tinggi limas 14 cm. Hitung volume dan luas permukaannya!"
+  },
+  {
+    "prompt": "Apa perbedaan rumus menghitung volume limas dan volume prisma?"
+  },
+  {
+    "prompt": "Dua bangun ruang, prisma segiempat alas persegi 5 cm dan limas segiempat alas persegi 5 cm, keduanya memiliki tinggi 12 cm. Hitung selisih volume keduanya!"
+  },
+  {
+    "prompt": "Hitung panjang rusuk miring pada prisma segitiga siku-siku dengan alas 3 cm, tinggi alas 4 cm, dan tinggi prisma 9 cm!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan dengan volume 432 cm³ dan tinggi limas 9 cm. Tentukan luas alas limas!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segitiga sama kaki dengan alas 10 cm, kaki 13 cm, dan tinggi prisma 12 cm!"
+  },
+  {
+    "prompt": "Mengapa volume limas selalu ⅓ × volume prisma dengan alas dan tinggi yang sama?"
+  },
+  {
+    "prompt": "Diketahui prisma segiempat dengan alas persegi panjang 7 cm × 4 cm dan tinggi prisma 25 cm. Hitung volume dan panjang diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga dengan luas permukaan 180 cm² dan luas alas 48 cm². Hitung tinggi limas!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segi enam beraturan dengan panjang sisi alas 6 cm dan tinggi prisma 14 cm!"
+  },
+  {
+    "prompt": "Diketahui limas segiempat beraturan dan prisma segiempat beraturan yang sama sisi alas 8 cm serta tinggi masing-masing 16 cm. Hitung rasio volume limas terhadap volume prisma!"
+  },
+  {
+    "prompt": "Jelaskan langkah-langkah menghitung luas permukaan total limas beraturan!"
+  },
+  {
+    "prompt": "Sebuah prisma segitiga dengan alas segitiga sama sisi sisi 10 cm dan tinggi prisma 24 cm. Hitung volume prisma!"
+  },
+  {
+    "prompt": "Hitung luas permukaan limas segitiga siku-siku dengan alas 6 cm, tinggi alas 8 cm, dan tinggi limas 15 cm!"
+  },
+  {
+    "prompt": "Diketahui volume prisma segi lima beraturan 600 cm³ dan luas alas 80 cm². Hitung tinggi prisma!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segi tiga dengan alas segitiga sama sisi sisi 12 cm dan tinggi prisma 16 cm!"
+  },
+  {
+    "prompt": "Apa yang dimaksud dengan rusuk tegak dan rusuk miring pada limas?"
+  },
+  {
+    "prompt": "Sebuah limas segi enam beraturan memiliki panjang sisi alas 7 cm dan tinggi limas 21 cm. Hitung volume limas!"
+  },
+  {
+    "prompt": "Hitung panjang diagonal ruang prisma segiempat dengan alas persegi panjang 8 cm × 15 cm dan tinggi prisma 20 cm!"
+  },
+  {
+    "prompt": "Diketahui luas permukaan total limas segitiga sama sisi 150 cm² dan panjang sisi alas 6 cm. Hitung apotema limas!"
+  },
+  {
+    "prompt": "Hitung volume bangun gabungan yang terdiri dari prisma segitiga sama sisi sisi 5 cm tinggi prisma 10 cm dan limas segitiga sama sisi sisi 5 cm tinggi limas 8 cm!"
+  },
+  {
+    "prompt": "Jelaskan mengapa luas permukaan prisma berbanding lurus dengan keliling alas dan tinggi prisma!"
+  },
+  {
+    "prompt": "Hitung volume prisma segitiga dengan alas segitiga sama kaki panjang alas 12 cm, sisi kaki 13 cm, dan tinggi prisma 20 cm!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan memiliki panjang sisi alas 10 cm dan apotema 8 cm. Hitung luas permukaan limas!"
+  },
+  {
+    "prompt": "Diketahui prisma segiempat tegak dengan alas persegi panjang 6 cm × 9 cm dan diagonal alas 10 cm. Hitung volume prisma jika tinggi prisma 15 cm!"
+  },
+  {
+    "prompt": "Sebuah limas segitiga siku-siku memiliki alas 5 cm, tinggi alas 12 cm, dan tinggi limas 18 cm. Hitung volume limas tersebut!"
+  },
+  {
+    "prompt": "Prisma segi enam beraturan dengan panjang sisi alas 4 cm dan tinggi prisma 16 cm. Hitung panjang diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Bangun gabungan terdiri dari prisma segitiga sama sisi dengan panjang sisi alas 6 cm dan tinggi prisma 12 cm, serta limas segitiga sama sisi dengan panjang sisi alas 6 cm dan tinggi limas 8 cm. Hitung total volume bangun!"
+  },
+  {
+    "prompt": "Diketahui limas segi lima beraturan dengan alas pentagon sisi 8 cm dan tinggi limas 12 cm. Hitung volume limas!"
+  },
+  {
+    "prompt": "Hitung luas permukaan prisma segitiga sama sisi dengan panjang sisi alas 10 cm dan tinggi prisma 14 cm!"
+  },
+  {
+    "prompt": "Prisma segi delapan beraturan dengan panjang sisi alas 5 cm dan tinggi prisma 18 cm. Hitung luas permukaan prisma!"
+  },
+  {
+    "prompt": "Sebuah limas segiempat beraturan dengan luas permukaan total 400 cm² dan tinggi limas 10 cm. Hitung panjang sisi alasnya!"
+  },
+  {
+    "prompt": "Diketahui volume prisma segiempat beraturan 800 cm³ dan panjang sisi alas 8 cm. Hitung tinggi prisma!"
+  },
+  {
+    "prompt": "Hitung panjang rusuk miring limas segiempat beraturan dengan sisi alas 12 cm dan apotema 13 cm!"
+  },
+  {
+    "prompt": "Sebuah prisma segitiga siku-siku memiliki alas 9 cm, tinggi alas 12 cm, dan tinggi prisma 10 cm. Hitung luas permukaan total prisma!"
+  },
+  {
+    "prompt": "Prisma segi lima beraturan dengan alas pentagon sisi 7 cm dan tinggi prisma 15 cm. Hitung diagonal ruang prisma!"
+  },
+  {
+    "prompt": "Diketahui limas segi enam beraturan dengan panjang sisi alas 6 cm dan tinggi limas 18 cm. Hitung luas permukaannya!"
+  },
+  {
+    "prompt": "Bangun gabungan terdiri dari limas segiempat beraturan sisi alas 5 cm tinggi limas 9 cm, dan prisma segiempat alas persegi sisi 5 cm tinggi prisma 12 cm. Hitung volume dan luas permukaan total bangun!"
+  },
+  {
+    "prompt": "Sebuah bak mandi berbentuk kubus memiliki panjang rusuk 1,4 m. Tentukan banyak air yang dibutuhkan untuk mengisi bak mandi tersebut hingga penuh."
+  },
+  {
+    "prompt": "Sebuah akuarium berbentuk balok memiliki ukuran panjang 74 cm dan tinggi 42 cm. Jika volume air di dalam akuarium tersebut adalah 31.080 cm³, tentukan lebar akuarium tersebut."
+  },
+  {
+    "prompt": "Perbandingan panjang, lebar, dan tinggi sebuah balok adalah p : l : t = 5 : 2 : 1. Jika luas permukaan balok 306 cm², tentukan besar volume balok tersebut."
+  },
+  {
+    "prompt": "Diketahui volume balok 100 cm³. Bagaimana cara menemukan ukuran balok tersebut? Berapa banyak kemungkinan ukuran-ukuran yang kalian temukan?"
+  },
+  {
+    "prompt": "Sebuah batang bambu dengan diameter 10 cm dan panjang 4 m dicelupkan dalam kolam berbentuk balok dengan ukuran panjang 4,5 m, lebar 55 cm, dan tinggi 40 cm untuk direndam dalam suatu larutan pengawet. Jika diasumsikan ujung-ujung bambu tertutup, berapa liter larutan pengawet yang harus dimasukkan sampai bak menjadi penuh?"
+  },
+  {
+    "prompt": "Sebuah tangki penampungan minyak tanah berbentuk prisma yang alasnya berupa belah ketupat dengan panjang diagonal-diagonalnya 4 m dan 3 m, serta tinggi tangki 2,5 m. Pada dasar tangki terdapat kran yang dapat mengalirkan minyak tanah rata-rata 75 liter setiap menit. Berapa lama waktu yang diperlukan untuk mengeluarkan minyak tanah dari tangki itu sampai habis?"
+  },
+  {
+    "prompt": "Disediakan kawat yang panjangnya 6 m, akan dibuat kerangka balok berukuran 13 cm × 9 cm × 8 cm. Berapakah banyak kerangka balok yang dapat dibuat dari kawat tersebut?"
+  },
+  {
+    "prompt": "Sebuah balok berukuran panjang = (3x + 2) cm, lebar = (x + 5) cm, dan tinggi = (2x – 4) cm. Jika jumlah panjang rusuknya 156 cm, susunlah persamaan dalam x dan tentukan nilai x!"
+  },
+  {
+    "prompt": "Alas sebuah prisma berbentuk segitiga siku-siku dengan panjang sisi 12 cm, 5 cm, dan 13 cm. Jika tinggi prisma adalah 20 cm, hitunglah luas permukaan prisma tersebut!"
+  },
+  {
+    "prompt": "Eka membuat model balok padat yang terbuat dari bahan gipsum dengan luas alas 200 cm² dan tinggi 9 cm. Harga gipsum per liter adalah Rp15.000,00. Berapa rupiah minimal uang Eka yang harus dikeluarkan untuk membuat model balok?"
+  },
+  {
+    "prompt": "Sebuah kotak panjangnya 1½ kali lebar dan 4½ kali tingginya. Jika jumlah semua rusuknya 408 cm, tentukan volume dan luas permukaannya!"
+  },
+  {
+    "prompt": "Sebuah tangki penampungan minyak tanah berbentuk prisma yang alasnya berupa belah ketupat dengan panjang diagonal-diagonal 4 m dan 3 m, serta tinggi tangki 2,5 m. Jika di dasar tangki terdapat kran yang dapat mengalirkan minyak tanah rata-rata 75 liter per menit, berapa lama waktu yang diperlukan untuk mengosongkan tangki sampai habis?"
+  },
+  {
+    "prompt": "Kubus ABCD.EFGH dipotong menjadi empat bagian oleh dua bidang. Bidang pertama sejajar dengan sisi ABCD dan melalui titik tengah rusuk BF. Bidang kedua melalui titik-titik tengah AB, AD, GH, dan FG. Tentukan rasio volume bagian ruang terkecil dan bagian ruang terbesar!"
+  },
+  {
+    "prompt": "Sebuah tangki penampungan minyak tanah berbentuk prisma yang alasnya berupa belah ketupat dengan panjang diagonal-diagonal 4 m dan 3 m, serta tinggi tangki 2,5 m. Jika di dasar tangki terdapat kran yang dapat mengalirkan minyak tanah rata-rata 75 liter per menit, berapa lama waktu yang diperlukan untuk mengosongkan tangki sampai habis?"
+  }
+]
+  
+  
