@@ -4,7 +4,15 @@
 
 > **Note:** As you can see, generated-responses.json is not same as final_reward_dataset.json, it is caused by missing file while development. But the dataset used for training is final_reward_dataset.json. So the generated-response.json doesn't matter much. You can generate it using notebook no 3 to generate final_reward_dataset you need to run Helpers/rewardDatasetMaker.py
 
-> Highly referenced HF blog about RLHF, on this blog https://huggingface.co/blog/stackllama 
+> Highly referenced HF blog about RLHF, on this blog https://huggingface.co/blog/stackllama
+
+> Other references:
+
+> - Implemented ChatGPT RLHF paper from this paper [https://arxiv.org/abs/2203.02155](https://arxiv.org/abs/2203.02155)
+
+> - Learned RLHF from ChatGPT RLHF paper predecessor [https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
+
+> - Used dataset from khan academy repo and paper [https://github.com/Khan/tutoring-accuracy-dataset](https://github.com/Khan/tutoring-accuracy-dataset)    
 
 ---
 
